@@ -28,9 +28,6 @@ library(ggmap)
 
 Here we read in two files. First, the demographics of all census tracts (csv created from 2017 ACS) saved as "data/tract_share_minority.csv". Second, the information about MSA/CBSA by county (csv from Census Bureau) saved as "data/cbsa_list.csv".
 ```{r read_files, message=FALSE}
-# DELETE!!!
-setwd("C:/Users/Dominic/Documents/DC Data Things/redlining/")
-
 # Load-in the demographics of all census tracts
 demographics <- read.csv("data/tract_share_minority.csv") %>% 
   mutate(minority_share = case_when(
