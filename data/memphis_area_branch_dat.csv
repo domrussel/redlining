@@ -1,0 +1,33 @@
+UNINUM,Number,Name,Address,County,City,State,Zip,Service.Type,Established.Date,Acquired.Date,X,Y
+14478,8993,Pascagoula Branch,1114 Jackson Avenue,Jackson,Pascagoula,MS,39567,Full Service Brick and Mortar Office,02/15/1973,03/20/2010,-88.5528685,30.3652572
+39712,9102,Nashville Main Branch,230 Fourth Avenue North,Davidson,Nashville,TN,37219,Full Service Brick and Mortar Office,11/14/1988,03/20/2010,-86.779065,36.1646922
+186236,9154,One Jackson Place Branch,188 East Capital Street,Hinds,Jackson,MS,39201,Full Service Brick and Mortar Office,01/04/1999,03/20/2010,-90.18634209999999,32.3008262
+186239,9155,Lakeland Branch,2299 Lakeland Drive,Rankin,Flowood,MS,39232,Full Service Brick and Mortar Office,03/01/1999,03/20/2010,-90.1256262,32.3298654
+186248,9168,Hacks Cross Branch,3611 Hacks Cross Road,Shelby,Memphis,TN,38125,Full Service Brick and Mortar Office,08/30/1999,03/20/2010,-89.7959253,35.0492707
+186249,9169,Ocean Springs Branch,1701 Bienville Boulevard,Jackson,Ocean Springs,MS,39564,Full Service Brick and Mortar Office,12/31/1997,03/20/2010,-88.8132246,30.416735
+254616,8991,Edgewater Branch,2675 Pass Road,Harrison,Biloxi,MS,39531,Full Service Brick and Mortar Office,08/27/1984,03/20/2010,-88.9940463,30.3997901
+254618,8992,Biloxi Main Branch,854 Howard Avenue,Harrison,Biloxi,MS,39530,Full Service Brick and Mortar Office,07/28/1991,03/20/2010,-88.89075729999999,30.3970672
+254619,8995,Courthouse Road Branch,375 Courthouse Road,Harrison,Gulfport,MS,39507,Full Service Brick and Mortar Office,04/29/1997,03/20/2010,-89.04454919999999,30.3854233
+261911,9103,Hermitage Branch,4740 Lebanon Road,Davidson,Hermitage,TN,37076,Full Service Brick and Mortar Office,11/27/1989,03/20/2010,-86.4012944,36.2386322
+261912,9104,Green Hills Branch,2122 Green Hills Village Drive Suite 306,Davidson,Nashville,TN,37215,Full Service Brick and Mortar Office,04/26/1990,03/20/2010,-86.81345979999999,36.1086076
+261913,9105,Bellevue Branch,7514 Highway 70 South,Davidson,Nashville,TN,37221,Full Service Brick and Mortar Office,02/11/1991,03/20/2010,-86.943775,36.0768606
+261914,9106,West End Branch,1712 West End Avenue,Davidson,Nashville,TN,37203,Full Service Brick and Mortar Office,01/31/1994,03/20/2010,-86.7954171,36.1536757
+261915,9107,East Memphis Branch,6445 Poplar Avenue,Shelby,Memphis,TN,38119,Full Service Brick and Mortar Office,08/01/1994,03/20/2010,-89.84815739999999,35.0993375
+261916,9108,Cordova Branch,1365 North Germantown Parkway,Shelby,Cordova,TN,38016,Full Service Brick and Mortar Office,05/20/1996,03/20/2010,-89.7954245,35.162154
+261917,9109,Brentwood Branch,5415 Maryland Way,Williamson,Brentwood,TN,37027,Full Service Brick and Mortar Office,08/05/1996,03/20/2010,-86.81624819999999,36.0364626
+261918,9110,Cool Springs Branch,2030 Mallory Lane,Williamson,Franklin,TN,37067,Full Service Brick and Mortar Office,08/05/1996,03/20/2010,-86.8186849,35.9497177
+261919,9111,Germantown East Branch,9301 Poplar Avenue,Shelby,Germantown,TN,38138,Full Service Brick and Mortar Office,08/26/1996,03/20/2010,-89.75253239999999,35.0642438
+261920,9112,Bartlett East Branch,9059 Highway 64,Shelby,Arlington,TN,38002,Full Service Brick and Mortar Office,11/04/1996,03/20/2010,-89.7610385,35.2038554
+358485,9182,Ridgeland Branch,109 West Jackson Street,Madison,Ridgeland,MS,39157,Full Service Brick and Mortar Office,08/14/2000,03/20/2010,-90.13015829999999,32.428387
+361043,9192,Hardy Street Branch,3707 Hardy Street,Forrest,Hattiesburg,MS,39402,Full Service Brick and Mortar Office,09/18/2000,03/20/2010,-89.34526029999999,31.3252925
+361044,9193,Turtle Creek Branch,6093 Us Highway 98,Lamar,Hattiesburg,MS,39402,Full Service Brick and Mortar Office,06/26/2001,03/20/2010,-89.3796205,31.3225132
+364591,9207,Franklin Royal Oaks Branch,210 South Royal Oaks Blvd,Williamson,Franklin,TN,37064,Full Service Brick and Mortar Office,06/17/2002,03/20/2010,-86.8301723,35.91217839999999
+420061,9217,Appling Road Branch,7435 Highway 64,Shelby,Memphis,TN,38133,Full Service Brick and Mortar Office,12/23/2002,03/20/2010,-89.81547200000001,35.2041457
+430657,6484,Jefferson Branch,1301 Arkansas Blvd,Miller,Texarkana,AR,71854,Full Service Brick and Mortar Office,08/18/2003,04/25/2009,-94.02871789999999,33.4611511
+443257,9324,Moores Lane Branch,1660 West Gate Circle,Williamson,Brentwood,TN,37027,Full Service Brick and Mortar Office,01/03/2005,03/20/2010,-86.80353009999999,35.96649379999999
+443261,9327,Southaven Branch,485 Goodman Road E,Desoto,Southaven,MS,38671,Full Service Brick and Mortar Office,01/03/2005,03/20/2010,-89.9813448,34.9622507
+443262,9328,Ridgewood Branch,6114 Ridgewood Road,Hinds,Jackson,MS,39211,Full Service Brick and Mortar Office,01/03/2005,03/20/2010,-90.140684,32.3956303
+472077,9802,Belle Meade Plaza Branch,4540 Harding Pike,Davidson,Nashville,TN,37205,Full Service Brick and Mortar Office,01/28/2008,03/20/2010,-86.8497515,36.1246543
+493572,9895,Thompson Lane Branch,618 Thompson Ln,Davidson,Nashville,TN,37204,Full Service Brick and Mortar Office,08/04/2008,03/20/2010,-86.7540865,36.1115425
+508660,9948,Nashville Pb Office,3100 West End Avenue,Davidson,Nashville,TN,37203,Limited Service Facility Office,05/07/2010,,-86.81701699999999,36.1430843
+512346,9991,Union Avenue & Claybrook Street Branch,42 South Claybrook St,Shelby,Memphis,TN,38104,Full Service Brick and Mortar Office,09/14/2009,,-90.0181817,35.137749

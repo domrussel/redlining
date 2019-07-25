@@ -1,0 +1,326 @@
+---
+title: "A Function to Generate Redlining Maps"
+author: "Dominic Russel"
+date: "July 22, 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+## Load the required packages
+
+First we read in a set of required packages. You may need to use install.packages() if this is your first time using one or more of these.
+```{r setup, message=FALSE}
+library(osrm)
+library(tidyverse)
+library(rgdal)
+library(leaflet)
+library(rgeos)
+library(htmlwidgets)
+library("RColorBrewer")
+library(maptools)
+library(httr)
+library(ggmap)
+```
+
+
+## Load the public demographic data and county-to-MSA crosswalk from Census Bureau website
+
+Here we read in two files. First, the demographics of all census tracts (csv created from 2017 ACS) saved as "data/tract_share_minority.csv". Second, the information about MSA/CBSA by county (csv from Census Bureau) saved as "data/cbsa_list.csv".
+```{r read_files, message=FALSE}
+# DELETE!!!
+setwd("C:/Users/Dominic/Documents/DC Data Things/redlining/")
+
+# Load-in the demographics of all census tracts
+demographics <- read.csv("data/tract_share_minority.csv") %>% 
+  mutate(minority_share = case_when(
+    is.na(pct_minority) ~ "NA",
+    pct_minority < 50 ~ "0 - 50%",
+    pct_minority < 80 ~ "50 - 80%",
+    TRUE ~ "80 - 100%")) %>% 
+  mutate(minority_share = factor(minority_share,
+                                 levels = c(
+                                   "0 - 50%",
+                                   "50 - 80%",
+                                   "80 - 100%",
+                                   "NA")))
+
+# Read in the data with information about MSA/CBSA by county
+cbsas <- read_csv("data/cbsa_list.csv")
+```
+
+## Create the master function that creates the MSA maps
+This code will create the function. You should not need to edit this code.
+```{r create_map}
+create_map <- function(msa_num, app_dat=NULL, branch_dat=NULL, add_drive_polys=FALSE, shape_file_year=2018, dir_to_use="", delete_files=TRUE){
+  
+  # Set the directory
+  directory <- paste0(dir_to_use, "temp_mapping_files/")
+  
+  # Create a temporary directory to work with
+  dir.create(directory)
+  
+  # Create the directory to save the unzipped files into
+  dir.create(paste0(directory, "unzipped"))
+
+  # Get the counties in the MSA
+  msa_dat <- filter(cbsas, `CBSA Code` == msa_num)
+
+  # For each state that is represented in the MSA, download the shape files
+  states_in_msa <- unique(msa_dat$`FIPS State Code`)
+  
+  # Make a string version that adds a 0 infront of single digit states
+  # str_states_in_msa <- if_else(states_in_msa < 10, paste0("0", states_in_msa), as.character(states_in_msa))
+  
+  # Loop through the states
+  for(i in 1:length(states_in_msa)){
+    # Create the URL to ping
+    url <- sprintf("https://www2.census.gov/geo/tiger/GENZ%s/shp/cb_%s_%s_tract_500k.zip",
+                   shape_file_year, shape_file_year, states_in_msa[i])
+    
+    # Set the place to send the zip folder
+    file_loc <- paste0(directory, basename(url))
+    
+    # Call the API #
+    # Only run if the file does not already exist
+    if(file.exists(file_loc) == FALSE){
+      call <- GET(url,
+                write_disk(file_loc, overwrite=FALSE),
+                progress(type="down"))
+      # If we do not get a favorable status, delete whatever we found
+      if(call$status_code != 200){
+        unlink(file_loc)
+      }
+      # And stop the function
+      stop_for_status(call, paste(
+                      "connect with Census Bureau servers. Attempted to connect with url:",
+                      url,
+                      "Make sure you are using the correct MSA number. It is also possible that the Census servers are down."))
+      
+    } else print("File already exists") # If the file already exists, tell the user that
+  
+    # Unzip the zip folder and save it in the folder unzipped
+    unzip(file_loc, exdir = paste0(directory, "unzipped"))
+    
+    # Get the name of the shape file
+    shp_file <- substr(basename(url), 0, nchar(basename(url))-4)
+    
+    # Load in the spatial data of tracts in the state
+    state_tracts <- readOGR(paste0(directory, "unzipped/", shp_file, ".shp"), layer = shp_file)
+    
+    # Get the FIPS numbers of the counties in the state that are in the MSA
+    counties <- (filter(msa_dat, `FIPS State Code` == states_in_msa[i]))$`FIPS County Code`
+    counties <- as.numeric(counties)
+    
+    # Limit the spatial data to only the counties in the state that are in the MSA
+    state_tracts@data <- state_tracts@data %>%
+      mutate(COUNTYFP = as.numeric(as.character(COUNTYFP)),
+             GEOID = as.numeric(as.character(GEOID)))
+    state_msa_tracts <- state_tracts[state_tracts$COUNTYFP %in% counties,]
+  
+    # Then bind the tracts to the final data
+    if(i == 1){
+      msa_tracts <- state_msa_tracts
+    }
+    else{
+      msa_tracts <- rbind(msa_tracts, state_msa_tracts)
+    }
+  }
+  
+  # Join the demographic data in
+  msa_tracts@data <- left_join(msa_tracts@data, demographics, by=c("GEOID"="geoid2"))
+  
+  # Delete the files that are left at the end
+  if(delete_files == TRUE){
+    unlink(directory, recursive = T)
+  }
+  
+  # Create the minority tract palette
+  pal_tract_minority <- colorFactor(c("#fcdf99", "#f29130", "#FF6F61", "#e6e6fa"), domain = msa_tracts$minority_share)
+  
+  # Create the base map
+  map <- leaflet(msa_tracts) %>% 
+    setView(mean(bbox(msa_tracts)[1,1], bbox(msa_tracts)[1,2])*.99,
+            mean(bbox(msa_tracts)[2,1], bbox(msa_tracts)[2,2])*1.01, 
+            zoom = 8) %>%
+    addProviderTiles(
+      "Esri.WorldGrayCanvas",
+      options = leafletOptions()               
+    ) %>% 
+    addPolygons(
+      fillColor = ~pal_tract_minority(minority_share),
+      weight = .05,
+      color = "black",
+      opacity = 1,
+      fillOpacity = 0.5,
+      group = "Tract Demographics"
+    ) %>% 
+    addLegend("bottomright",
+              pal = pal_tract_minority, 
+              values = ~minority_share, 
+              title = "Tract Minority Share")
+  
+  # If you give it branches limit to the branches in a box surrounding the MSA and plot
+  if(!is.null(branch_dat)){
+    
+    # Filter to only the branches in the MSA
+    coordinates(branch_dat) <- ~ X + Y
+    proj4string(branch_dat) <- proj4string(msa_tracts)
+    branch_dat <- branch_dat[msa_tracts,]
+    
+    # Construct the drive time polygons
+    if(add_drive_polys){
+      
+      print("Constructing the drive time polygons:")
+      
+      # This is calling the demo OSRM server to build isochrone drive time polygons for each branch.
+      # It takes a second to run.
+      # Eventually, it would probably be better to set up a local instance of this server.
+      # See: https://www.rdocumentation.org/packages/osrm/versions/3.2.0
+      # See: http://project-osrm.org/
+      # We do this only for the branches that are currently open.
+      isos <- list()
+      for(i in 1:nrow(branch_dat)){
+        print(paste(i, "of", nrow(branch_dat)))
+        iso <- osrmIsochrone(loc = c((branch_dat[i,])$X, (branch_dat[i,])$Y), breaks = c(0, 10, 15, 20))
+        iso@data$drive_times <- factor(paste(iso@data$min, "to", iso@data$max, "min"))
+        isos[[i]] <- iso
+      }
+      
+      # Now we merge all the polygons into rows in a SpatialPolygon data frame
+      combined_isos <- isos[[1]]
+      if(length(isos) > 1){
+        for(i in 2:length(isos)){
+          combined_isos <- rbind(combined_isos, isos[[i]])
+        }
+      }
+      
+      # Then for each of the drive times, we actually merge the polygon shapes
+      # 10 mins
+      ten_min_isos <- combined_isos[combined_isos$drive_times == "0 to 10 min",]
+      ID_ten <- factor(rep(1, nrow(ten_min_isos))) # one id for all
+      merged_polys_10 <- unionSpatialPolygons(ten_min_isos, ID_ten)
+      # 15 mins
+      fifteen_min_isos <- combined_isos[combined_isos$drive_times %in% c("0 to 10 min", "10 to 15 min"),]
+      ID_fifteen <- factor(rep(1, nrow(fifteen_min_isos))) # one id for all
+      merged_polys_15 <- unionSpatialPolygons(fifteen_min_isos, ID_fifteen)
+      # 20 mins
+      twenty_min_isos <- combined_isos[combined_isos$drive_times %in% c("0 to 10 min", "10 to 15 min", "15 to 20 min"),]
+      ID_twenty <- factor(rep(1, nrow(twenty_min_isos))) # one id for all
+      merged_polys_20 <- unionSpatialPolygons(twenty_min_isos, ID_twenty)
+    
+      # Add the polygon layers to the map
+      map <- map %>% 
+        addPolygons(fill=TRUE, stroke=TRUE, color = "black",
+                    fillColor = "#08589e",
+                    weight=0.5, fillOpacity=0.25,
+                    data = merged_polys_10,
+                    group = "Drive Time = 10 Minutes") %>% 
+        addPolygons(fill=TRUE, stroke=TRUE, color = "black",
+                    fillColor = "#08589e",
+                    weight=0.5, fillOpacity=0.25,
+                    data = merged_polys_15,
+                    group = "Drive Time = 15 Minutes") %>% 
+        addPolygons(fill=TRUE, stroke=TRUE, color = "black",
+                    fillColor = "#08589e",
+                    weight=0.5, fillOpacity=0.25,
+                    data = merged_polys_20,
+                    group = "Drive Time = 20 Minutes")
+      }
+    
+    # Add the branch data to the map
+    map <- map %>% 
+      addCircleMarkers(
+        data = branch_dat, lat = branch_dat$Y, lng = branch_dat$X,
+        weight = 1,
+        opacity = .9,
+        fillOpacity = .75,
+        radius = 12,
+        group = "Branches",
+        color = "#08589e"
+      )
+  }
+  
+  # Add the loan data to the map
+  if(!is.null(app_dat)){
+    map <- map %>% 
+      addCircleMarkers(
+        data = app_dat, lat = app_dat$Y, lng = app_dat$X,
+        weight = 1,
+        opacity = .9,
+        fillOpacity = .5,
+        radius = 3,
+        group = "Applications",
+        color = "#737373"
+      )
+  }
+  
+  map <- map %>% 
+    addLayersControl(
+      overlayGroups = c("Tract Demographics", "Drive Time = 10 Minutes", "Drive Time = 15 Minutes",
+                      "Drive Time = 20 Minutes", "Applications", "Branches")) %>% 
+    hideGroup(c("Drive Time = 15 Minutes", "Drive Time = 20 Minutes"))
+  
+  map
+}
+```
+
+## Example Calls
+* Inputs:
+    + **msa_num** = The FIPS Code (can be found by looking at the csv read-in above)
+    + **app_dat** = A data frame or tibble that includes loan/application data that has been geocoded with X,Y coordinates (in columns named X,Y)
+    + **branch_dat** = A data frame or tibble that includes branch data that has been geocoded with X,Y coordinates (in columns named X,Y)
+    + **add_drive_polys** = If branch data is specified, setting this flag to TRUE will generate drive time polygons around the branches (this operation can take a long time, especially when the number of branches gets large - use with caution)
+    + **shape_file_year** = The year of shape files you'd like to pull from the census bureau. If not specified, defaults to 2018.
+    + **dir_to_use** = The directory to create a folder in that will temporarily save the necessary census bureau shape files. The files will be saved in a folder named 'temp_mapping_files'
+    + **delete_files** = If TRUE, will delete the shape files after mapping. If FALSE, will keep the files in a folder named "temp_mapping_files" at the specified directory or wd if none specified.
+* Outputs:
+    + A leaflet mapping object that can be viewed in an rstudio window or saved to html file
+
+### Example 1 - Branches w/o drive time
+
+For our first example, we load in branch data (pulled from publicly available source at: https://research.fdic.gov/bankfind/ and geocoded using the Google geocoding API: https://developers.google.com/maps/documentation/geocoding/start)
+```{r example1, results="hide"}
+
+dc_branch_dat <- read.csv("data/dc_area_branch_dat.csv", stringsAsFactors = FALSE)
+
+# MSA 47900 - DC-Area
+map1 <- create_map(47900, branch_dat = dc_branch_dat, delete_files = F)
+```
+
+```{r display_example1}
+map1
+```
+
+### Example 2 - Branches w/o drive time AND applications
+
+Here we generate fake application data to show how one can overlay applications on the map.
+```{r example2, results="hide"}
+# Generate fake loan data according to a uniform distribution (yes this naiive approach puts some loans in rivers)
+fake_applications <- data.frame(
+  X = runif(n=2000, min=-78, max=-76.8),
+  Y = runif(n=2000, min=38.4, max=39.2))
+
+map2 <- create_map(47900, app_dat = fake_applications, branch_dat = dc_branch_dat)
+```
+
+```{r display_example2}
+map2
+```
+
+### Example 3 - Branches w/ drive time
+
+Now for an MSA with fewer branches we add the drive time polygons
+```{r example3, results="hide"}
+
+memphis_branch_dat <- read.csv("data/memphis_area_branch_dat.csv", stringsAsFactors = FALSE)
+
+# MSA 32820 - Memphis Area
+map3 <- create_map(32820, branch_dat = memphis_branch_dat, add_drive_polys=TRUE)
+```
+
+```{r display_example3}
+map3
+```
+
+

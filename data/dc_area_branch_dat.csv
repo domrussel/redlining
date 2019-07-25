@@ -1,0 +1,384 @@
+UNINUM,Number,Name,Address,County,City,State,Zip,Service.Type,Established.Date,Acquired.Date,X,Y
+4137,8709,Christiansburg Main Branch,4 East Main Street,Montgomery,Christiansburg,VA,24073,Full Service Brick and Mortar Office,01/01/1888,03/20/2010,-80.4086086,37.1303556
+4146,8639,Powhatan Branch,3901 Old Buckingham,Powhatan,Powhatan,VA,23139,Full Service Brick and Mortar Office,09/13/1922,03/20/2010,-77.91958,37.5434056
+4585,7741,Bassett Branch,3559 Fairystone Park Hwy,Henry,Bassett,VA,24055,Full Service Brick and Mortar Office,01/01/1907,03/20/2010,-79.9916937,36.7590982
+4605,7739,Galax Branch,300 N Main St,Galax City,Galax,VA,24333,Full Service Brick and Mortar Office,07/11/1907,03/20/2010,-80.9259148,36.6638967
+4609,7778,Bridgewater Branch,500 North Main Street,Rockingham,Bridgewater,VA,22812,Full Service Brick and Mortar Office,03/15/1900,03/20/2010,-78.96998599999999,38.3866632
+4617,8628,Charlottesville Main Branch,123 E. Main Street,Charlottesville City,Charlottesville,VA,22902,Full Service Brick and Mortar Office,01/01/1903,03/20/2010,-78.4807443,38.0308357
+4632,8711,Poquoson Branch,2 Victory Boulevard,Poquoson City,Poquoson,VA,23662,Full Service Brick and Mortar Office,01/01/1922,03/20/2010,-76.3926216,37.1247344
+4656,7802,Old Town Branch,201 N Loudoun Street,Winchester City,Winchester,VA,22601,Full Service Brick and Mortar Office,01/01/1866,03/20/2010,-78.1650384,39.186623
+8042,7878,Saint Paul Street Branch,7 Saint Paul Street,Baltimore City,Baltimore,MD,21202,Full Service Brick and Mortar Office,01/01/1795,03/20/2010,-76.6136973,39.29010040000001
+8916,8637,Goochland Courthouse Branch,3018 River Road West,Goochland,Goochland,VA,23063,Full Service Brick and Mortar Office,01/01/1923,03/20/2010,-77.88498229999999,37.6877193
+9404,8660,Washington Avenue Branch,2700 Washington Avenue,Newport News City,Newport News,VA,23607,Full Service Brick and Mortar Office,11/12/1934,03/20/2010,-76.4311073,36.9793129
+9422,8687,Grant & Elden Branch,501 Elden Street,Fairfax,Herndon,VA,20170,Full Service Brick and Mortar Office,02/15/1935,03/20/2010,-77.37941049999999,38.9681868
+10664,7594,Georgia Avenue Branch,8711 Georgia Avenue,Montgomery,Silver Spring,MD,20910,Full Service Brick and Mortar Office,11/18/1946,03/20/2010,-77.03004419999999,38.9982738
+11953,7591,Congressional Plaza Branch,110 Congressional Lane,Montgomery,Rockville,MD,20852,Full Service Brick and Mortar Office,06/12/1959,03/20/2010,-77.1263503,39.0637464
+12695,7570,14th & New York Branch,1350 New York Avenue Northwest,District Of Columbia,Washington,DC,20005,Full Service Brick and Mortar Office,07/23/1963,03/20/2010,-77.0313937,38.8992159
+12792,7769,Mount Vernon Branch,7706 Richmond Hwy,Fairfax,Alexandria,VA,22306,Full Service Brick and Mortar Office,11/23/1963,03/20/2010,-77.08373189999999,38.7492034
+12801,7792,Tyson's Plaza Branch,1753 Pinnacle Drive,Fairfax,Mclean,VA,22102,Full Service Brick and Mortar Office,10/01/1942,03/20/2010,-77.2285702,38.9207928
+12854,7599,Towson-York Road Branch,501 York Road,Baltimore,Towson,MD,21204,Full Service Brick and Mortar Office,01/27/1964,03/20/2010,-76.6027744,39.4006867
+12899,7768,Del Ray Branch,3506 Mt. Vernon Avenue,Alexandria City,Alexandria,VA,22305,Full Service Brick and Mortar Office,04/02/1964,03/20/2010,-77.0620454,38.837232
+12996,7798,Woodlawn Branch,8770 Richmond Highway Rt 1,Fairfax,Alexandria,VA,22309,Full Service Brick and Mortar Office,07/09/1964,03/20/2010,-77.125466,38.7208543
+13524,8681,Baileys Crossroads Branch,5797 Leesburg Pike,Fairfax,Falls Church,VA,22041,Full Service Brick and Mortar Office,07/03/1967,03/20/2010,-77.13164069999999,38.8507249
+13672,8651,James Center Branch,1021 East Cary Street,Richmond City,Richmond,VA,23219,Full Service Brick and Mortar Office,01/02/1969,03/20/2010,-77.43557400000002,37.5362151
+13863,8685,Manaport Branch,8441 Sudley Road,Prince William,Manassas,VA,20109,Full Service Brick and Mortar Office,04/20/1970,03/20/2010,-77.5003539,38.774209
+14160,7775,Herndon Junction Branch,47040 Community Plaza,Loudoun,Sterling,VA,20164,Full Service Brick and Mortar Office,10/08/1971,03/20/2010,-77.3739386,39.0150774
+14520,8647,Royal Avenue Branch,232 North Royal Avenue,Warren,Front Royal,VA,22630,Full Service Brick and Mortar Office,03/31/1973,03/20/2010,-78.19409209999999,38.922308
+14671,8663,Williamsburg Branch,1006 Richmond Road,Williamsburg City,Williamsburg,VA,23185,Full Service Brick and Mortar Office,09/12/1973,03/20/2010,-76.71786349999999,37.279443
+14691,7869,Great Bridge Branch,"205 Battlefield Boulevard, South",Chesapeake City,Chesapeake,VA,23322,Full Service Brick and Mortar Office,10/01/1973,03/20/2010,-76.23908519999999,36.71826799999999
+14789,7740,Blacksburg Branch,200 North Main Street,Montgomery,Blacksburg,VA,24060,Full Service Brick and Mortar Office,01/02/1974,03/20/2010,-80.41459929999999,37.2303985
+14793,7860,Downtown Petersburg Branch,20 Franklin Street,Petersburg City,Petersburg,VA,23803,Full Service Brick and Mortar Office,01/02/1974,03/20/2010,-77.4026202,37.2283593
+14903,8706,South Boston Branch,3300 Halifax Road,Halifax,South Boston,VA,24592,Full Service Brick and Mortar Office,05/01/1974,03/20/2010,-78.9188791,36.7354663
+15364,7601,Gaithersburg Branch,607 North Frederick Avenue,Montgomery,Gaithersburg,MD,20879,Full Service Brick and Mortar Office,09/25/1975,03/20/2010,-77.2128328,39.1540043
+15386,8645,Chesapeake Main Branch,"672 Battlefield Boulevard, North",Chesapeake City,Chesapeake,VA,23320,Full Service Brick and Mortar Office,10/23/1975,03/20/2010,-76.24389,36.7421845
+15405,7758,Fredericksburg Shopping Ctr Branch,501 1/2 Jefferson Davis Hwy,Fredericksburg City,Fredericksburg,VA,22401,Full Service Brick and Mortar Office,12/05/1975,03/20/2010,-77.4757884,38.3136449
+15849,7776,West Springfield Branch,8401 Old Keene Mill Road,Fairfax,Springfield,VA,22152,Full Service Brick and Mortar Office,08/28/1978,03/20/2010,-77.2335987,38.7786866
+35352,9202,West Broad Village Branch,11151 W Broad St,Henrico,Glen Allen,VA,23060,Full Service Brick and Mortar Office,04/08/1986,03/20/2010,-77.5987892,37.6484082
+40666,7583,Van Ness Branch,4302 Connecticut Ave Nw,District Of Columbia,Washington,DC,20008,Full Service Brick and Mortar Office,01/01/1916,03/20/2010,-77.0647886,38.9456768
+43739,7827,Annandale - Little River Branch,7620 Little River Turnpike,Fairfax,Annandale,VA,22003,Full Service Brick and Mortar Office,01/01/1952,03/20/2010,-77.2089661,38.8332897
+47703,8648,Broadview Avenue Branch,155 Broadview Avenue,Fauquier,Warrenton,VA,20186,Full Service Brick and Mortar Office,07/17/1992,03/20/2010,-77.80550010000002,38.7213227
+190923,7571,Penn-Branch Branch,"3200 Pennsylvania Avenue, S.E.",District Of Columbia,Washington,DC,20020,Full Service Brick and Mortar Office,08/17/1964,03/20/2010,-76.9602103,38.8699904
+190926,7572,Macarthur & Arizona Branch,"5201 Macarthur Boulevard, N.W.",District Of Columbia,Washington,DC,20016,Full Service Brick and Mortar Office,11/01/1961,03/20/2010,-77.1033081,38.9271295
+190928,7573,Wisconsin & Calvert Branch,"3700 Calvert Street, N.W.",District Of Columbia,Washington,DC,20007,Full Service Brick and Mortar Office,08/31/1959,03/20/2010,-77.07346749999999,38.9223417
+190933,7574,17th & Pennsylvania Avenue Branch,"1700 Pennsylvania Avenue, N.W.",District Of Columbia,Washington,DC,20006,Full Service Brick and Mortar Office,12/31/1975,03/20/2010,-77.0398051,38.8985971
+190934,7579,Georgetown Branch,"2901 M Street, N.W.",District Of Columbia,Washington,DC,20007,Full Service Brick and Mortar Office,01/16/1978,03/20/2010,-77.05829030000001,38.9054503
+190939,7581,Fort Lincoln Branch,"2119 Bladensburg Road, N.E.",District Of Columbia,Washington,DC,20018,Full Service Brick and Mortar Office,11/17/1980,03/20/2010,-76.9576567,38.9306883
+190940,7582,Capital Gallery Branch,"600 Maryland Avenue, S.W.",District Of Columbia,Washington,DC,20024,Full Service Brick and Mortar Office,09/21/1981,03/20/2010,-77.02091779999999,38.88628509999999
+192637,8680,Airport Road Branch,3490 Seminole Trail,Albemarle,Charlottesville,VA,22911,Full Service Brick and Mortar Office,06/10/1974,03/20/2010,-78.4364258,38.1322828
+205014,7845,Perry Hall Branch,8851 Belair Road,Baltimore,Baltimore,MD,21236,Full Service Brick and Mortar Office,07/31/1997,03/20/2010,-76.4825609,39.3962811
+205045,7916,Tollgate Plaza Branch,615 Bel Air Road,Harford,Bel Air,MD,21014,Full Service Brick and Mortar Office,12/08/1997,03/20/2010,-76.3543729,39.5240987
+208768,7857,Penn Daw Branch,6300 Richmond Highway,Fairfax,Alexandria,VA,22306,Full Service Brick and Mortar Office,04/07/1965,03/20/2010,-77.07951539999999,38.7808123
+208779,7858,Dale City Branch,2876 Dale Boulevard,Prince William,Dale City,VA,22193,Full Service Brick and Mortar Office,11/04/1968,03/20/2010,-77.2992798,38.6280981
+208798,8710,University Mall Branch,920 University City Boulevard,Montgomery,Blacksburg,VA,24060,Full Service Brick and Mortar Office,09/10/1979,03/20/2010,-80.4338039,37.2359349
+208876,7784,Churchland - Western Branch,3114 Western Branch Boulevard,Chesapeake City,Chesapeake,VA,23321,Full Service Brick and Mortar Office,12/11/1967,03/20/2010,-76.4015084,36.8628083
+208878,7785,Hodges Ferry Branch,3936 Portsmouth Boulevard,Chesapeake City,Chesapeake,VA,23321,Full Service Brick and Mortar Office,03/29/1971,03/20/2010,-76.40430359999999,36.8254856
+212242,7799,Claremont Branch,4651 King Street,Alexandria City,Alexandria,VA,22302,Full Service Brick and Mortar Office,12/10/1962,03/20/2010,-77.10762059999999,38.84201669999999
+212244,7814,Northwest Branch,1711 Fern Street,Alexandria City,Alexandria,VA,22302,Full Service Brick and Mortar Office,11/18/1946,03/20/2010,-77.0851584,38.8300602
+212245,7815,West End Branch,4601 Duke Street,Alexandria City,Alexandria,VA,22304,Full Service Brick and Mortar Office,01/04/1954,03/20/2010,-77.1113687,38.8121757
+212251,7800,Pinecrest Branch,6565 Little River Turnpike,Fairfax,Alexandria,VA,22312,Full Service Brick and Mortar Office,01/27/1972,03/20/2010,-77.1630532,38.8221199
+212252,7816,North Washington Street Branch,330 North Washington Street,Alexandria City,Alexandria,VA,22314,Full Service Brick and Mortar Office,05/29/1973,03/20/2010,-77.0465486,38.8082375
+212279,8630,Ivy Road Branch,2100 Ivy Road,Charlottesville City,Charlottesville,VA,22903,Full Service Brick and Mortar Office,07/29/1960,03/20/2010,-78.5120228,38.0424533
+212281,8631,Emmet Street Branch,901 Emmet Street,Charlottesville City,Charlottesville,VA,22903,Full Service Brick and Mortar Office,01/06/1966,03/20/2010,-78.50400599999999,38.0482297
+212283,8632,Louisa Branch,200 West Main Street,Louisa,Louisa,VA,23093,Full Service Brick and Mortar Office,10/05/1949,03/20/2010,-78.0038629,38.0250616
+212292,8636,Fashion Square Branch,1625 Seminole Trail,Albemarle,Charlottesville,VA,22901,Full Service Brick and Mortar Office,12/02/1971,03/20/2010,-78.4743508,38.0802093
+212322,8677,Culpeper South Branch,307 South Gate Shopping Center,Culpeper,Culpeper,VA,22701,Full Service Brick and Mortar Office,06/07/1968,03/20/2010,-78.00216809999999,38.4633973
+212395,7779,Market Street Branch,141 East Market Street,Harrisonburg City,Harrisonburg,VA,22801,Full Service Brick and Mortar Office,12/08/1971,03/20/2010,-78.8670598,38.4489519
+212398,7780,Valley Mall Branch,2005 E Market St,Harrisonburg City,Harrisonburg,VA,22801,Full Service Brick and Mortar Office,10/10/1978,03/20/2010,-78.8410735,38.4270761
+212437,8629,Hope Drive Branch,2490 Valley Avenue,Winchester City,Winchester,VA,22601,Full Service Brick and Mortar Office,03/01/1984,03/20/2010,-78.1855215,39.1577855
+212448,8643,Harrison Crossing Branch,5636 Plank Rd,Spotsylvania,Fredericksburg,VA,22407,Full Service Brick and Mortar Office,02/08/1989,03/20/2010,-77.56530029999999,38.2905726
+212451,8644,Courtland Branch,10424 Courthouse Road,Spotsylvania,Spotsylvania,VA,22553,Full Service Brick and Mortar Office,12/18/1989,03/20/2010,-77.5262473,38.2448348
+212455,8646,Bellgrade Branch,11400 West Huguenot Road,Chesterfield,Midlothian,VA,23113,Full Service Brick and Mortar Office,04/06/1992,03/20/2010,-77.60868169999999,37.5259092
+212457,8650,Ashburn Farm Branch,43780 Parkhurst Plaza,Loudoun,Ashburn,VA,20147,Full Service Brick and Mortar Office,03/03/1997,03/20/2010,-77.4874273,39.029961
+212466,8692,Altavista Branch,1037 Main Street,Campbell,Altavista,VA,24517,Full Service Brick and Mortar Office,09/07/1954,03/20/2010,-79.28057009999999,37.1150382
+212469,8694,Appomattox Branch,114 Moses St,Appomattox,Appomattox,VA,24522,Full Service Brick and Mortar Office,11/12/1962,03/20/2010,-78.8300134,37.3593902
+212474,8696,Peakland Branch,4105 Boonsboro Road,Lynchburg City,Lynchburg,VA,24503,Full Service Brick and Mortar Office,08/21/1959,03/20/2010,-79.2023087,37.4431453
+212475,8697,Langhorne Road Branch,2304 Langhorne Road,Lynchburg City,Lynchburg,VA,24501,Full Service Brick and Mortar Office,05/17/1961,03/20/2010,-79.1704334,37.4120649
+212480,8698,Amelon Square Branch,118 Amelon Square,Amherst,Madison Heights,VA,24572,Full Service Brick and Mortar Office,11/07/1959,03/20/2010,-79.11880239999999,37.4686631
+212481,8699,Rustburg Branch,819 Village Hwy,Campbell,Rustburg,VA,24588,Full Service Brick and Mortar Office,10/01/1963,03/20/2010,-79.1003814,37.2767153
+212484,8700,Clarksville Branch,215 Virginia Avenue,Mecklenburg,Clarksville,VA,23927,Full Service Brick and Mortar Office,11/01/1966,03/20/2010,-78.55477259999999,36.6255068
+212485,8701,Chase City Branch,525 North Main Street,Mecklenburg,Chase City,VA,23924,Full Service Brick and Mortar Office,12/12/1966,03/20/2010,-78.4596088,36.8022764
+212486,8702,Amelia Branch,9100 Virginia Street,Amelia,Amelia Court House,VA,23002,Full Service Brick and Mortar Office,07/01/1967,03/20/2010,-77.9816719,37.3418729
+212487,8703,Farmville Branch,127 North Main Street,Prince Edward,Farmville,VA,23901,Full Service Brick and Mortar Office,02/26/1968,03/20/2010,-78.3926214,37.3023341
+212490,8705,Waterlick Plaza Branch,21513 Timberlake Road,Campbell,Lynchburg,VA,24502,Full Service Brick and Mortar Office,11/24/1972,03/20/2010,-79.2475126,37.3288505
+212491,8707,River Ridge Branch,3408 Candlers Mountain Road,Lynchburg City,Lynchburg,VA,24502,Full Service Brick and Mortar Office,09/08/1980,03/20/2010,-79.1743189,37.3675629
+212661,7805,Denbigh Branch,441 Denbigh Boulevard,Newport News City,Newport News,VA,23608,Full Service Brick and Mortar Office,09/23/1974,03/20/2010,-76.5338971,37.1309815
+212733,8635,Orange Shopping Center Branch,595 North Madison Road,Orange,Orange,VA,22960,Full Service Brick and Mortar Office,02/01/1965,03/20/2010,-78.11506059999999,38.2576501
+212735,8634,Germanna Branch,5505 Germanna Hwy,Orange,Locust Grove,VA,22508,Full Service Brick and Mortar Office,08/31/1970,03/20/2010,-77.7282632,38.3271565
+212759,8656,Midcity Branch,900 Frederick Boulevard,Portsmouth City,Portsmouth,VA,23707,Full Service Brick and Mortar Office,04/21/1960,03/20/2010,-76.3413465,36.83099199999999
+212761,8658,Suffolk Main Street Branch,201 North Main Street,Suffolk City,Suffolk,VA,23434,Full Service Brick and Mortar Office,01/03/1967,03/20/2010,-76.58275239999999,36.7302936
+212763,8659,Deep Creek Branch,1064 George Washington Highway,Chesapeake City,Chesapeake,VA,23323,Full Service Brick and Mortar Office,02/15/1973,03/20/2010,-76.3373684,36.7800758
+212828,8649,Waynesboro Branch,216 South Wayne Avenue,Waynesboro City,Waynesboro,VA,22980,Full Service Brick and Mortar Office,08/03/1964,03/20/2010,-78.8895241,38.0672693
+212858,8666,Mcguire Circle Branch,415 Belt Boulevard,Richmond City,Richmond,VA,23224,Full Service Brick and Mortar Office,09/20/1911,03/20/2010,-77.4734218,37.5046301
+212859,8667,Patterson Avenue Branch,9000 Patterson Avenue,Henrico,Richmond,VA,23229,Full Service Brick and Mortar Office,07/11/1963,03/20/2010,-77.57624799999999,37.5955305
+212861,8668,Thompson & Broad Branch,3501 West Broad Street,Richmond City,Richmond,VA,23230,Full Service Brick and Mortar Office,04/28/1948,03/20/2010,-77.4783814,37.5685485
+212864,8669,Chamberlayne Avenue Branch,1800 Chamberlayne Avenue,Richmond City,Richmond,VA,23222,Full Service Brick and Mortar Office,09/15/1960,03/20/2010,-77.4428575,37.5597015
+212866,8670,Bellwood Plaza Branch,7300 Jefferson Davis Highway,Chesterfield,North Chesterfield,VA,23237,Full Service Brick and Mortar Office,02/01/1967,03/20/2010,-77.438867,37.4238499
+212875,8673,Westhampton - Grove Branch,5803 Grove Avenue,Richmond City,Richmond,VA,23226,Full Service Brick and Mortar Office,09/02/1975,03/20/2010,-77.51890689999999,37.5726329
+212877,8675,Glenside Branch,7101 West Broad Street,Henrico,Richmond,VA,23294,Full Service Brick and Mortar Office,01/07/1980,03/20/2010,-77.5204688,37.6108085
+212880,7724,Bedford Branch,101 North Bridge Street,Bedford,Bedford,VA,24523,Full Service Brick and Mortar Office,11/01/1960,03/20/2010,-79.52376629999999,37.3347319
+212882,7725,Big Stone Gap Branch,216 Wood Ave E,Wise,Big Stone Gap,VA,24219,Full Service Brick and Mortar Office,03/11/1963,03/20/2010,-82.7762995,36.8657029
+212885,7743,State Street Branch,709 State Street,Bristol,Bristol,VA,24201,Full Service Brick and Mortar Office,03/01/1963,03/20/2010,-82.1859996,36.5952828
+212889,7726,Covington Branch,246 West Main Street,Covington City,Covington,VA,24426,Full Service Brick and Mortar Office,12/15/1964,03/20/2010,-79.9953642,37.79309
+212892,7727,Lexington Branch,101 South Main Street,Lexington City,Lexington,VA,24450,Full Service Brick and Mortar Office,03/18/1965,03/20/2010,-79.4433363,37.7841294
+212894,7728,Marion Branch,102 East Main Street,Smyth,Marion,VA,24354,Full Service Brick and Mortar Office,07/09/1963,03/20/2010,-81.51918979999999,36.8327345
+212898,7729,Richlands Branch,201 Suffolk Avenue,Tazewell,Richlands,VA,24641,Full Service Brick and Mortar Office,04/24/1964,03/20/2010,-81.79736919999999,37.0943411
+212900,7731,Plaza Branch,4202 Melrose Avenue Nw,Roanoke City,Roanoke,VA,24017,Full Service Brick and Mortar Office,06/28/1957,03/20/2010,-80.00566769999999,37.2960029
+212903,7733,South Roanoke Branch,"301 Mc Clanahan Street, S.W.",Roanoke City,Roanoke,VA,24014,Full Service Brick and Mortar Office,04/18/1958,03/20/2010,-79.9480871,37.2512778
+212905,7734,Salem Branch,14 West Main Street,Salem,Salem,VA,24153,Full Service Brick and Mortar Office,07/27/1963,03/20/2010,-80.0594733,37.2922763
+212906,7735,Riverjack Branch,1432 Apperson Drive,Salem,Salem,VA,24153,Full Service Brick and Mortar Office,10/01/1965,03/20/2010,-80.0375337,37.27110589999999
+212909,7736,Wells Fargo Tower Branch,10 South Jefferson Street,Roanoke City,Roanoke,VA,24011,Full Service Brick and Mortar Office,05/01/1969,03/20/2010,-79.93981889999999,37.2727148
+212910,7737,Vinton Branch,120 West Virginia Avenue,Roanoke,Vinton,VA,24179,Full Service Brick and Mortar Office,10/17/1969,03/20/2010,-79.9010176,37.2767119
+212912,7738,Hershberger Road Branch,"1344 Hershberger Road, N.W.",Roanoke City,Roanoke,VA,24012,Full Service Brick and Mortar Office,03/19/1971,03/20/2010,-79.957347,37.3150401
+212921,7749,Four-Sixty East Branch,"3442 Orange Avenue, N.E.",Roanoke City,Roanoke,VA,24012,Full Service Brick and Mortar Office,01/31/1986,03/20/2010,-79.89237469999999,37.3039332
+212933,7777,Reston Town Center Branch,11911 Freedom Dr,Fairfax,Reston,VA,20190,Full Service Brick and Mortar Office,10/01/1990,03/20/2010,-77.3564136,38.9591003
+212934,7790,Abingdon Branch,332 Cummings Street,Washington,Abingdon,VA,24210,Full Service Brick and Mortar Office,05/08/1991,03/20/2010,-81.9755977,36.7072086
+212936,7821,Market Place Branch,2325 North Franklin Street,Montgomery,Christiansburg,VA,24073,Full Service Brick and Mortar Office,06/27/1994,03/20/2010,-80.4215603,37.16105659999999
+212937,7822,Pleasant Hill Branch,1795 South Main St,Harrisonburg City,Harrisonburg,VA,22801,Full Service Brick and Mortar Office,06/27/1994,03/20/2010,-78.88882230000002,38.42591120000001
+212939,7823,Tanglewood Branch,4206 Electric Road,Roanoke,Roanoke,VA,24018,Full Service Brick and Mortar Office,11/16/1994,03/20/2010,-79.97997289999999,37.2280882
+212940,7833,Sudley Road Branch,8118 Sudley Road,Prince William,Manassas,VA,20109,Full Service Brick and Mortar Office,04/29/1996,03/20/2010,-77.5111306,38.7797176
+212941,7834,Vienna Branch,212 Maple Ave East,Fairfax,Vienna,VA,22180,Full Service Brick and Mortar Office,06/02/1997,03/20/2010,-77.26256099999999,38.9040389
+212962,7819,Purcellville Branch,611 E Main St,Loudoun,Purcellville,VA,20132,Full Service Brick and Mortar Office,12/02/1974,03/20/2010,-77.70565859999999,39.1368032
+213025,7803,Winchester Gateway Branch,121 Gateway Drive,Frederick,Winchester,VA,22603,Full Service Brick and Mortar Office,11/12/1957,03/20/2010,-78.1307425,39.1863834
+213026,7804,Stonewall Plaza Branch,110 Rivendell Court,Frederick,Winchester,VA,22603,Full Service Brick and Mortar Office,07/01/1963,03/20/2010,-78.1743899,39.2092937
+213029,8665,Grafton Branch,101 Amory Lane,York,Yorktown,VA,23692,Full Service Brick and Mortar Office,08/23/1965,03/20/2010,-76.4665662,37.164977
+218486,7796,Westover Branch,1701 North Mckinley Road,Arlington,Arlington,VA,22205,Full Service Brick and Mortar Office,05/04/1953,03/20/2010,-77.14128699999999,38.8861487
+218495,7797,Clarendon Branch,3140 North Washington Boulevard,Arlington,Arlington,VA,22201,Full Service Brick and Mortar Office,02/12/1973,03/20/2010,-77.0959793,38.8857606
+222920,7746,Clintwood Branch,454 Clintwood Main Street,Dickenson,Clintwood,VA,24228,Full Service Brick and Mortar Office,07/09/1940,03/20/2010,-82.4540016,37.1511264
+222924,7747,Royal City Branch,20786 Riverside Dr,Buchanan,Grundy,VA,24614,Full Service Brick and Mortar Office,10/19/1978,03/20/2010,-82.1007912,37.2605866
+225095,7862,Euclid Avenue Branch,1700 Euclid Avenue,Bristol,Bristol,VA,24201,Full Service Brick and Mortar Office,12/16/1965,03/20/2010,-82.19967729999999,36.5994928
+225106,7853,Shops At Stratford Hills Branch,7119 Forest Hill Avenue,Richmond City,Richmond,VA,23225,Full Service Brick and Mortar Office,04/05/1960,03/20/2010,-77.5262473,37.5370999
+225115,7859,21st & Granby Branch,2014 Granby Street,Norfolk City,Norfolk,VA,23517,Full Service Brick and Mortar Office,04/12/1949,03/20/2010,-76.28506569999999,36.8671528
+225126,7854,Eleventh & Marshall Branch,401 N 11th St,Richmond City,Richmond,VA,23219,Full Service Brick and Mortar Office,09/12/1956,03/20/2010,-77.4308166,37.5407618
+225130,7855,Parham & Broad Branch,8215 Broad Street,Henrico,Richmond,VA,23294,Full Service Brick and Mortar Office,10/10/1966,03/20/2010,-77.53618829999999,37.6301952
+225155,7865,Fox Mill Branch,2575 John Milton Drive,Fairfax,Herndon,VA,20171,Full Service Brick and Mortar Office,05/02/1979,03/20/2010,-77.37565239999999,38.92586439999999
+225162,7867,John Rolfe Place Branch,10821 Ridgefield Parkway,Henrico,Richmond,VA,23233,Full Service Brick and Mortar Office,12/22/1981,03/20/2010,-77.62495919999999,37.6203941
+225183,7871,Lynnhaven Mall Branch,675 Lynnhaven Parkway,Virginia Beach City,Virginia Beach,VA,23452,Full Service Brick and Mortar Office,10/27/1988,03/20/2010,-76.06751919999999,36.8225747
+225184,7872,Prosperity Centre Branch,701 East Market Street,Loudoun,Leesburg,VA,20176,Full Service Brick and Mortar Office,08/15/1988,03/20/2010,-77.5492592,39.1060614
+225191,7873,Highland Springs - Airport Branch,81 South Airport Drive,Henrico,Highland Springs,VA,23075,Full Service Brick and Mortar Office,05/14/1990,03/20/2010,-77.3223539,37.5354621
+225208,8640,Carytown - Cary Court Branch,3201 West Cary Street,Richmond City,Richmond,VA,23221,Full Service Brick and Mortar Office,04/01/1929,03/20/2010,-77.4824363,37.5535669
+227379,7575,13th & Pennsylvania Office,1301 Pennsylvania Avenue Nw,District Of Columbia,Washington,DC,20004,Full Service Brick and Mortar Office,12/29/1958,03/20/2010,-77.02990919999999,38.8965205
+227380,7576,Farragut North Branch,"1001 Connecticut Avenue, N.W.",District Of Columbia,Washington,DC,20036,Full Service Brick and Mortar Office,04/01/1963,03/20/2010,-77.0390135,38.9029004
+227385,7577,18th & K Branch,"1800 K Street, N.W.",District Of Columbia,Washington,DC,20006,Full Service Brick and Mortar Office,02/26/1973,03/20/2010,-77.042144,38.9020707
+227386,7578,Connecticut & N Branch,"1300 Connecticut Avenue, N.W.",District Of Columbia,Washington,DC,20036,Full Service Brick and Mortar Office,03/18/1974,03/20/2010,-77.04276109999999,38.9075913
+227434,7909,K Street Branch,"1510 K Street, N.W.",District Of Columbia,Washington,DC,20005,Full Service Brick and Mortar Office,12/05/1939,03/20/2010,-77.0351704,38.90225179999999
+227440,7910,Capitol Hill Branch,"215 Pennsylvania Avenue, S.E.",District Of Columbia,Washington,DC,20003,Full Service Brick and Mortar Office,04/03/1978,03/20/2010,-77.0028713,38.8870124
+227588,7870,Elmhurst Branch,5700 Portsmouth Boulevard,Portsmouth City,Portsmouth,VA,23701,Full Service Brick and Mortar Office,11/05/1971,03/20/2010,-76.3807937,36.8200872
+227663,7879,Parkville Shopping Center Branch,7639 Harford Road,Baltimore,Baltimore,MD,21234,Full Service Brick and Mortar Office,12/01/1925,03/20/2010,-76.5421698,39.3716214
+227665,7880,Highlandtown Branch,4820 Eastern Avenue,Baltimore City,Baltimore,MD,21224,Full Service Brick and Mortar Office,04/01/1937,03/20/2010,-76.55519009999999,39.2872452
+227666,7881,Gwynn Oak Junction Branch,4735 Liberty Heights Avenue,Baltimore City,Baltimore,MD,21207,Full Service Brick and Mortar Office,01/06/1947,03/20/2010,-76.6968459,39.3314122
+227672,7882,Walbrook Branch,3200 West North Avenue,Baltimore City,Baltimore,MD,21216,Full Service Brick and Mortar Office,05/23/1931,03/20/2010,-76.6711174,39.3092334
+227674,7883,Westside Shopping Center Branch,2320 Ashton Street,Baltimore City,Baltimore,MD,21223,Full Service Brick and Mortar Office,04/01/1919,03/20/2010,-76.65392800000001,39.2813131
+227677,7884,Reisterstown Center Branch,11975 Reisterstown Road,Baltimore,Reisterstown,MD,21136,Full Service Brick and Mortar Office,10/05/1960,03/20/2010,-76.8158486,39.44899290000001
+227678,7885,Rolling Road Branch,860 North Rolling Road,Baltimore,Catonsville,MD,21228,Full Service Brick and Mortar Office,12/10/1963,03/20/2010,-76.75405529999999,39.2829758
+227679,7886,Essex Branch,632 Eastern Boulevard,Baltimore,Essex,MD,21221,Full Service Brick and Mortar Office,08/16/1954,03/20/2010,-76.47128579999999,39.3104926
+227681,7887,Drumcastle Branch,6309 York Road,Baltimore City,Baltimore,MD,21212,Full Service Brick and Mortar Office,05/23/1955,03/20/2010,-76.6089355,39.3717087
+227684,7888,Catonsville Branch,582 Frederick Road,Baltimore,Catonsville,MD,21228,Full Service Brick and Mortar Office,06/06/1921,03/20/2010,-76.7284705,39.2728935
+227697,7890,Timonium Branch,2100 York Road,Baltimore,Timonium,MD,21093,Full Service Brick and Mortar Office,03/02/1959,03/20/2010,-76.6267115,39.440951
+227702,7891,Lake Shore Plaza Branch,4305 Mountain Road,Anne Arundel,Pasadena,MD,21122,Full Service Brick and Mortar Office,06/21/1968,03/20/2010,-76.5128227,39.1210464
+227705,7892,Satyr Hill Branch,2012 E Joppa Rd,Baltimore,Parkville,MD,21234,Full Service Brick and Mortar Office,08/27/1970,03/20/2010,-76.5432687,39.3992073
+227717,7893,Chatham Mall Branch,9230 Baltimore National Pike,Howard,Ellicott City,MD,21042,Full Service Brick and Mortar Office,06/05/1974,03/20/2010,-76.8313271,39.2779788
+227722,7894,Hunt Valley Branch,11234 York Road,Baltimore,Cockeysville,MD,21030,Full Service Brick and Mortar Office,09/10/1975,03/20/2010,-76.6496016,39.4929386
+227723,7895,Restaurant Park Branch,171 Jennifer Road,Anne Arundel,Annapolis,MD,21401,Full Service Brick and Mortar Office,11/06/1975,03/20/2010,-76.5436526,38.9864975
+227724,7896,Crofton Branch,1623 Crofton Center,Anne Arundel,Crofton,MD,21114,Full Service Brick and Mortar Office,12/17/1975,03/20/2010,-76.695454,39.0176662
+227731,7897,York Fairmount Branch,989 Fairmount Avenue,Baltimore,Towson,MD,21204,Full Service Brick and Mortar Office,12/08/1977,03/20/2010,-76.6075589,39.4106312
+227746,7902,Bay Forest Branch,930 Bay Ridge Road,Anne Arundel,Annapolis,MD,21403,Full Service Brick and Mortar Office,10/15/1981,03/20/2010,-76.4883976,38.94839109999999
+227748,7903,Roland Park Branch,5121 Roland Avenue,Baltimore City,Baltimore,MD,21210,Full Service Brick and Mortar Office,03/01/1982,03/20/2010,-76.6343332,39.3562741
+227752,7904,Parkside Branch,5040 Sinclair Lane,Baltimore City,Baltimore,MD,21206,Full Service Brick and Mortar Office,01/09/1984,03/20/2010,-76.5456762,39.322709
+227754,7905,Monument Street Branch,2008 East Monument Street,Baltimore City,Baltimore,MD,21205,Full Service Brick and Mortar Office,04/09/1984,03/20/2010,-76.5890635,39.298686
+227755,7906,Linthicum Branch,721 North Hammonds Ferry Road,Anne Arundel,Linthicum,MD,21090,Full Service Brick and Mortar Office,05/21/1984,03/20/2010,-76.6652261,39.2240885
+227764,7907,Eldersburg Branch,1427 Liberty Road,Carroll,Eldersburg,MD,21784,Full Service Brick and Mortar Office,02/22/1988,03/20/2010,-76.94613919999999,39.4022541
+227768,7908,Forest Hill Branch,1 Newport Dr,Harford,Forest Hill,MD,21050,Full Service Brick and Mortar Office,06/04/1990,03/20/2010,-76.3857116,39.5780265
+231248,8638,Manakin Sabot Branch,12888 Broad Street Road,Goochland,Richmond,VA,23233,Full Service Brick and Mortar Office,12/11/1972,03/20/2010,-77.6743817,37.6687274
+232744,8662,Power Plant Branch,104 Marketplace Dr,Hampton City,Hampton,VA,23666,Full Service Brick and Mortar Office,11/03/1971,03/20/2010,-76.40066890000001,37.0375531
+238185,7595,Landover Branch,7700 Landover Road,Prince George's,Landover,MD,20785,Full Service Brick and Mortar Office,03/12/1965,03/20/2010,-76.88268029999999,38.9274675
+238186,7596,Langley Park Branch,1175 University Boulevard East,Montgomery,Takoma Park,MD,20912,Full Service Brick and Mortar Office,08/28/1962,03/20/2010,-76.9886593,38.9892013
+238191,7597,Wheaton Branch,2800 West University Blvd,Montgomery,Wheaton,MD,20902,Full Service Brick and Mortar Office,06/03/1957,03/20/2010,-77.057076,39.0384506
+238201,7602,Centre Park Branch,8808 Centre Park Drive,Howard,Columbia,MD,21045,Full Service Brick and Mortar Office,10/14/1981,03/20/2010,-76.8161233,39.226314
+238215,7603,Rivertowne Commons Branch,6175 Oxon Hill Road,Prince George's,Oxon Hill,MD,20745,Full Service Brick and Mortar Office,06/17/1987,03/20/2010,-76.9838602,38.8045253
+238221,7604,Shops At Silver Hill Branch,5801 Silver Hill Rd,Prince George's,District Heights,MD,20747,Full Service Brick and Mortar Office,01/02/1990,03/20/2010,-76.9060976,38.8547013
+239822,7606,Arbutus Branch,1060 Maiden Choice Lane,Baltimore,Baltimore,MD,21229,Full Service Brick and Mortar Office,07/31/1957,03/20/2010,-76.6968297,39.2614417
+239824,7607,Loch Raven Branch,1726 East Northern Parkway,Baltimore City,Baltimore,MD,21239,Full Service Brick and Mortar Office,07/28/1955,03/20/2010,-76.5845373,39.3669676
+239828,7608,Harundale Branch,7700 Ritchie Hwy,Anne Arundel,Glen Burnie,MD,21061,Full Service Brick and Mortar Office,12/08/1955,03/20/2010,-76.6153221,39.1530789
+239830,7609,Pikesville Branch,1515 Reisterstown Road,Baltimore,Baltimore,MD,21208,Full Service Brick and Mortar Office,03/15/1967,03/20/2010,-76.72603149999999,39.3782536
+239831,7610,Westlake Crossing Branch,10305 Westlake Dr,Montgomery,Bethesda,MD,20817,Full Service Brick and Mortar Office,03/06/1968,03/20/2010,-77.1479607,39.0256
+239832,7611,Liberty Road Branch,8522 Liberty Road,Baltimore,Randallstown,MD,21133,Full Service Brick and Mortar Office,05/07/1969,03/20/2010,-76.7764366,39.3612234
+239835,7612,Martin Plaza Branch,1418 Martin Boulevard,Baltimore,Baltimore,MD,21220,Full Service Brick and Mortar Office,06/09/1975,03/20/2010,-76.4470446,39.3336906
+239854,7613,Bethesda North Branch,8302 Woodmont Avenue,Montgomery,Bethesda,MD,20814,Full Service Brick and Mortar Office,09/08/1987,03/20/2010,-77.0974325,38.9929597
+239870,7614,Rockville Branch,502 Hungerford Drive,Montgomery,Rockville,MD,20850,Full Service Brick and Mortar Office,09/08/1987,03/20/2010,-77.1533465,39.0909059
+239871,7615,Leisure World Plaza Branch,3852 International Drive,Montgomery,Silver Spring,MD,20906,Full Service Brick and Mortar Office,09/08/1987,03/20/2010,-77.0751313,39.1021843
+243575,7592,Bethesda Branch,4965 Elm St,Montgomery,Bethesda,MD,20814,Full Service Brick and Mortar Office,01/27/1964,03/20/2010,-77.09827949999999,38.9822307
+243587,7593,Potomac Promenade Branch,9812 Falls Road,Montgomery,Potomac,MD,20854,Full Service Brick and Mortar Office,04/03/1989,03/20/2010,-77.2107274,39.0175157
+243589,7605,Laurel Branch,14817 Baltimore Avenue,Prince George's,Laurel,MD,20707,Full Service Brick and Mortar Office,07/10/1995,03/20/2010,-76.85304219999999,39.0945182
+244666,7764,Falls Church Branch,1000 West Broad Street,Falls Church City,Falls Church,VA,22046,Full Service Brick and Mortar Office,05/21/1963,03/20/2010,-77.184417,38.8913638
+244668,7765,Mclean Branch,6844 Old Dominion Drive,Fairfax,Mclean,VA,22101,Full Service Brick and Mortar Office,05/22/1967,03/20/2010,-77.1810026,38.9354577
+244669,7766,Franconia Branch,6110 Franconia Road,Fairfax,Alexandria,VA,22310,Full Service Brick and Mortar Office,11/12/1970,03/20/2010,-77.1475052,38.7821541
+244670,7767,Jefferson Village Branch,2928 Annandale Road,Fairfax,Falls Church,VA,22042,Full Service Brick and Mortar Office,03/05/1971,03/20/2010,-77.1750048,38.8712621
+244672,7772,Willston Centre Branch,6112j Arlington Boulevard,Fairfax,Falls Church,VA,22044,Full Service Brick and Mortar Office,08/05/1974,03/20/2010,-77.1439479,38.8692663
+244676,7774,Pan Am Branch,3019 Nutley Street,Fairfax,Fairfax,VA,22031,Full Service Brick and Mortar Office,06/12/1980,03/20/2010,-77.2624712,38.8716579
+245139,7773,Fairfax Main Branch,10501 Main Street,Fairfax City,Fairfax,VA,22030,Full Service Brick and Mortar Office,07/18/1967,03/20/2010,-77.3086857,38.846373
+245661,8674,James Avenue Branch,1603 Boulevard,Colonial Heights City,Colonial Heights,VA,23834,Full Service Brick and Mortar Office,02/17/1964,03/20/2010,-77.41064469999999,37.2545725
+246613,7584,Market Square Branch,"801 Pennsylvania Avenue, N.W.",District Of Columbia,Washington,DC,20004,Full Service Brick and Mortar Office,06/20/1994,03/20/2010,-77.02361140000001,38.8942061
+246614,7586,Friendship Heights Branch,5100 Wisconsin Avenue,District Of Columbia,Washington,DC,20016,Full Service Brick and Mortar Office,12/30/1994,03/20/2010,-77.08389629999999,38.9562999
+246615,7587,G Street Branch,"1310 G Street, N.W.",District Of Columbia,Washington,DC,20005,Full Service Brick and Mortar Office,12/12/1994,03/20/2010,-77.03029529999999,38.898029
+246865,7770,Kings Park Branch,8900 Burke Lake Road,Fairfax,Springfield,VA,22151,Full Service Brick and Mortar Office,04/05/1965,03/20/2010,-77.25232439999999,38.8100895
+246866,7771,Belle View Branch,1805 Belle View Boulevard,Fairfax,Alexandria,VA,22307,Full Service Brick and Mortar Office,05/21/1966,03/20/2010,-77.06182059999999,38.77466709999999
+246892,7809,Arlington Government Plaza Branch,2200 Clarendon Blvd,Arlington,Arlington,VA,22201,Full Service Brick and Mortar Office,06/30/1969,03/20/2010,-77.0860301,38.8904606
+246894,7793,Rosslyn Metro Branch,1500 Wilson Boulevard,Arlington,Arlington,VA,22209,Full Service Brick and Mortar Office,10/01/1942,03/20/2010,-77.07459419999999,38.8943981
+246895,7810,Barcroft Branch,951 South George Mason Drive,Arlington,Arlington,VA,22204,Full Service Brick and Mortar Office,04/07/1961,03/20/2010,-77.10161350000001,38.8595807
+246896,7794,Lee - Glebe Branch,2213 North Glebe Road,Arlington,Arlington,VA,22207,Full Service Brick and Mortar Office,10/14/1964,03/20/2010,-77.12348279999999,38.8979825
+246898,7795,Crystal Metro Branch,251 18th Street South,Arlington,Arlington,VA,22202,Full Service Brick and Mortar Office,07/26/1965,03/20/2010,-77.0512799,38.8586218
+246899,7811,Ballston Metro Branch,1011 North Stafford Street,Arlington,Arlington,VA,22201,Full Service Brick and Mortar Office,01/12/1970,03/20/2010,-77.1102449,38.8827528
+246904,7812,Annandale - John Marr Branch,4260 John Marr Drive,Fairfax,Annandale,VA,22003,Full Service Brick and Mortar Office,03/15/1976,03/20/2010,-77.1901898,38.8310853
+246905,7813,Elden & Alabama Branch,1099 Elden Street,Fairfax,Herndon,VA,20170,Full Service Brick and Mortar Office,04/01/1978,03/20/2010,-77.3967215,38.9652655
+246906,7801,Burke Centre Branch,5703 Burke Centre Parkway,Fairfax,Burke,VA,22015,Full Service Brick and Mortar Office,03/03/1980,03/20/2010,-77.3226196,38.79984109999999
+246910,7807,Springfield Plaza Branch,7030 Old Keene Mill Rd,Fairfax,Springfield,VA,22150,Full Service Brick and Mortar Office,08/15/1984,03/20/2010,-77.18828049999999,38.7791882
+246929,7820,Centreville Branch,14011-D Saint Gernaine Drive,Fairfax,Centreville,VA,20121,Full Service Brick and Mortar Office,08/01/1988,03/20/2010,-77.4359084,38.836658
+246931,7808,Sully Plaza Branch,13960 Lee Jackson Memorial Highway,Fairfax,Chantilly,VA,20151,Full Service Brick and Mortar Office,03/12/1990,03/20/2010,-77.42920629999999,38.8939076
+247066,7600,Severna Park Branch,585 Ritchie Highway,Anne Arundel,Severna Park,MD,21146,Full Service Brick and Mortar Office,01/27/1975,03/20/2010,-76.5437007,39.0759535
+247646,7912,"Dunbar At Howard, The",1901 7th St Nw,District Of Columbia,Washington,DC,20001,Full Service Brick and Mortar Office,06/25/1973,03/20/2010,-77.0217213,38.9157435
+247965,7781,Wards Corner Branch,7627 Granby Street,Norfolk City,Norfolk,VA,23505,Full Service Brick and Mortar Office,09/13/1968,03/20/2010,-76.2732781,36.9157226
+247971,7782,College Park Branch,6563 College Park Square,Virginia Beach City,Virginia Beach,VA,23464,Full Service Brick and Mortar Office,06/16/1975,03/20/2010,-76.21781039999999,36.8104082
+247979,7789,Greenbrier - Market Center Branch,1208 Greenbrier Parkway,Chesapeake City,Chesapeake,VA,23320,Full Service Brick and Mortar Office,10/05/1989,03/20/2010,-76.2290144,36.7708786
+248400,7750,Willow Lawn Branch,4901 West Broad Street,Henrico,Richmond,VA,23230,Full Service Brick and Mortar Office,11/10/1967,03/20/2010,-77.4937228,37.581489
+248401,7751,Meadowbrook Branch,5630 Hopkins Road,Chesterfield,North Chesterfield,VA,23234,Full Service Brick and Mortar Office,05/16/1969,03/20/2010,-77.4735583,37.443832
+248404,7752,Parham & Fargo Branch,1701 N Parham Road,Henrico,Richmond,VA,23229,Full Service Brick and Mortar Office,09/10/1971,03/20/2010,-77.5641321,37.6076782
+248405,7753,White Oak Village Branch,4489 S Laburnum Avenue,Henrico,Richmond,VA,23231,Full Service Brick and Mortar Office,05/01/1973,03/20/2010,-77.3523752,37.5246191
+248406,7754,Crossridge Branch,10190 Staples Mill Rd,Henrico,Glen Allen,VA,23060,Full Service Brick and Mortar Office,11/01/1974,03/20/2010,-77.52390919999999,37.6562246
+248407,7757,Southport Branch,10831 Midlothian Turnpike,Chesterfield,Richmond,VA,23235,Full Service Brick and Mortar Office,04/09/1980,03/20/2010,-77.5976474,37.5060274
+248410,7761,Mechanicsville - Elm Branch,8111 Mechanicsville Turnpike,Hanover,Mechanicsville,VA,23111,Full Service Brick and Mortar Office,01/01/1986,03/20/2010,-77.3766067,37.5987949
+248411,7762,Innsbrook - Cox Road Branch,4020 Cox Road,Henrico,Glen Allen,VA,23060,Full Service Brick and Mortar Office,09/06/1989,03/20/2010,-77.58312049999999,37.6487061
+248412,7763,Garrisonville - Doc Stone Branch,290 Garrisonville Road,Stafford,Stafford,VA,22554,Full Service Brick and Mortar Office,10/02/1989,03/20/2010,-77.4194103,38.4751904
+248735,7756,Spring Rock Green Branch,7202 Midlothian Turnpike,Chesterfield,North Chesterfield,VA,23225,Full Service Brick and Mortar Office,02/24/1970,03/20/2010,-77.52903549999999,37.5012319
+249356,8682,Merrifield Branch,2903 Gallows Road,Fairfax,Falls Church,VA,22042,Full Service Brick and Mortar Office,05/09/1972,03/20/2010,-77.2265718,38.8733311
+249358,8683,Hunters Woods Branch,2264 Hunters Wood Plaza,Fairfax,Reston,VA,20191,Full Service Brick and Mortar Office,09/18/1972,03/20/2010,-77.3620072,38.9379464
+249418,8641,Amberleigh Village Branch,9601 Amberdale Dr,Chesterfield,North Chesterfield,VA,23236,Full Service Brick and Mortar Office,06/17/1968,03/20/2010,-77.5729123,37.4468904
+249419,8642,Chester Branch,4400 West Hundred Road,Chesterfield,Chester,VA,23831,Full Service Brick and Mortar Office,11/03/1969,03/20/2010,-77.4484471,37.3553885
+249833,8653,Bayside Branch,1612 Independence Boulevard,Virginia Beach City,Virginia Beach,VA,23455,Full Service Brick and Mortar Office,03/25/1971,03/20/2010,-76.1404258,36.8935367
+249836,8654,Pungo Branch,1804 Princess Anne Road,Virginia Beach City,Virginia Beach,VA,23456,Full Service Brick and Mortar Office,04/15/1974,03/20/2010,-76.01704219999999,36.7244777
+249837,8655,Hilltop North Branch,1608 Laskin Road,Virginia Beach City,Virginia Beach,VA,23451,Full Service Brick and Mortar Office,10/01/1978,03/20/2010,-76.0171136,36.8520249
+249838,8664,Shore Drive Branch,2821 Shore Drive,Virginia Beach City,Virginia Beach,VA,23451,Full Service Brick and Mortar Office,05/18/1979,03/20/2010,-76.0678138,36.9119545
+249840,8708,Wells Fargo Center Branch,"440 Monticello Avenue, Suite 150",Norfolk City,Norfolk,VA,23510,Full Service Brick and Mortar Office,03/19/1984,03/20/2010,-76.2876448,36.8513262
+249846,8712,Virginia Beach Town Center Branch,125 Independence Boulevard,Virginia Beach City,Virginia Beach,VA,23462,Full Service Brick and Mortar Office,10/15/1985,03/20/2010,-76.13738579999999,36.8414277
+249848,8713,Brandy Hill Plaza Branch,7085 Mechanicsville Pike,Hanover,Mechanicsville,VA,23111,Full Service Brick and Mortar Office,09/11/1986,03/20/2010,-77.3417454,37.6111246
+249849,8714,General Booth Branch,2125 General Booth Boulevard,Virginia Beach City,Virginia Beach,VA,23454,Full Service Brick and Mortar Office,09/29/1986,03/20/2010,-76.0141877,36.7673931
+249851,8715,Parham Route One Branch,8101 Brook Road,Henrico,Richmond,VA,23227,Full Service Brick and Mortar Office,01/05/1987,03/20/2010,-77.4585056,37.6334757
+249852,8716,Second & Grace Branch,122 East Grace Street,Richmond City,Richmond,VA,23219,Full Service Brick and Mortar Office,06/29/1987,03/20/2010,-77.44095829999999,37.543961
+249856,8717,Hunter Mill Branch,2946 Chain Bridge Road,Fairfax,Oakton,VA,22124,Full Service Brick and Mortar Office,02/21/1986,03/20/2010,-77.30201749999999,38.881201
+249861,8718,Stoney Creek Branch,2935 Rockfish Valley Highway,Nelson,Nellysford,VA,22958,Full Service Brick and Mortar Office,12/01/1987,03/20/2010,-78.8726543,37.8911222
+249869,8720,Radford Branch,1040 East Main Street,Radford,Radford,VA,24141,Full Service Brick and Mortar Office,08/24/1988,03/20/2010,-80.5552281,37.1412593
+249877,8721,Midlothian Village Branch,13530 Midlothian Turnpike,Chesterfield,Midlothian,VA,23113,Full Service Brick and Mortar Office,09/26/1988,03/20/2010,-77.6503244,37.5037584
+249879,8722,Smoketown Plaza Branch,13716 Smoketown Road,Prince William,Woodbridge,VA,22192,Full Service Brick and Mortar Office,03/15/1989,03/20/2010,-77.30661769999999,38.6543657
+249882,8723,Chesterfield Meadows Branch,6441 Chesterfield Meadows Drive,Chesterfield,Chesterfield,VA,23832,Full Service Brick and Mortar Office,03/29/1989,03/20/2010,-77.4999311,37.3703732
+249883,8724,Smithfield Plaza Branch,13400 Benns Church Boulevard,Isle Of Wight,Smithfield,VA,23430,Full Service Brick and Mortar Office,06/06/1989,03/20/2010,-76.6004992,36.9521725
+249886,8725,Graves Mill Center Branch,17967 Forest Road,Bedford,Forest,VA,24551,Full Service Brick and Mortar Office,09/05/1989,03/20/2010,-79.24833070000001,37.3768785
+249895,8727,Brandermill Branch,13200 Hull Street Road,Chesterfield,Midlothian,VA,23112,Full Service Brick and Mortar Office,04/23/1990,03/20/2010,-77.6398253,37.4189488
+249944,8746,Short Pump Branch,3300 Pump Road,Henrico,Richmond,VA,23233,Full Service Brick and Mortar Office,09/20/1996,03/20/2010,-77.61589169999999,37.6467026
+249946,8747,Danville Branch,3346 Riverside Drive,Danville City,Danville,VA,24541,Full Service Brick and Mortar Office,01/21/1997,03/20/2010,-79.4281475,36.58482970000001
+250159,7817,Warwick Village Branch,11006 Warwick Boulevard,Newport News City,Newport News,VA,23601,Full Service Brick and Mortar Office,10/06/1970,03/20/2010,-76.4710843,37.044088
+250420,8686,Courthouse Manassas Branch,9210 Church Street,Manassas City,Manassas,VA,20110,Full Service Brick and Mortar Office,03/15/1971,03/20/2010,-77.4749251,38.7515442
+250507,7874,Great Falls Branch,750 Walker Road,Fairfax,Great Falls,VA,22066,Full Service Brick and Mortar Office,03/13/1979,03/20/2010,-77.2888444,38.99652
+251594,7748,Norton Branch,"701 Park Avenue, Sw",Norton City,Norton,VA,24273,Full Service Brick and Mortar Office,07/13/1981,03/20/2010,-82.6283808,36.9338349
+251617,7818,Coliseum Mall Branch,2050 Coliseum Drive,Hampton City,Hampton,VA,23666,Full Service Brick and Mortar Office,08/23/1973,03/20/2010,-76.3899089,37.046591
+252447,7745,Lee Highway Branch,3375 Lee Highway,Bristol,Bristol,VA,24202,Full Service Brick and Mortar Office,01/15/1977,03/20/2010,-82.1186984,36.6344548
+252523,7806,Roosevelt Gardens Branch,2316 E Little Creek Rd,Norfolk City,Norfolk,VA,23518,Full Service Brick and Mortar Office,07/27/1976,03/20/2010,-76.2187111,36.9155132
+252788,7861,Colonial Square Branch,3107 Boulevard,Colonial Heights City,Colonial Heights,VA,23834,Full Service Brick and Mortar Office,01/19/1976,03/20/2010,-77.41067869999999,37.26928600000001
+254177,7759,Salem Church Branch,4246 Plank Road,Spotsylvania,Fredericksburg,VA,22407,Full Service Brick and Mortar Office,12/26/1984,03/20/2010,-77.5348473,38.2883572
+254394,7786,Kempsville Branch,5293 Princess Anne Road,Virginia Beach City,Virginia Beach,VA,23462,Full Service Brick and Mortar Office,07/05/1978,03/20/2010,-76.1685123,36.8283551
+254397,7788,Holland Road Branch,4287 Holland Road,Virginia Beach City,Virginia Beach,VA,23452,Full Service Brick and Mortar Office,04/05/1984,03/20/2010,-76.1225575,36.8203949
+254993,7760,Hayes Branch,2469 George Washington Hwy,Gloucester,Hayes,VA,23072,Full Service Brick and Mortar Office,05/27/1980,03/20/2010,-76.5005414,37.277579
+259776,9203,Rutland Commons Branch,9197 Atlee Road,Hanover,Mechanicsville,VA,23116,Full Service Brick and Mortar Office,10/21/1988,03/20/2010,-77.4001969,37.6511207
+260121,9201,Rivers Bend Branch,13241 River's Bend Boulevard,Chesterfield,Chester,VA,23836,Full Service Brick and Mortar Office,03/17/1997,03/20/2010,-77.355099,37.349015
+264993,7590,Chevy Chase Circle Branch,5701 Connecticut Ave Nw,District Of Columbia,Washington,DC,20015,Full Service Brick and Mortar Office,01/01/1907,03/20/2010,-77.07600819999999,38.9663248
+264994,7589,20th & L Branch,2001 K Street Nw,District Of Columbia,Washington,DC,20006,Full Service Brick and Mortar Office,01/01/1907,03/20/2010,-77.0452025,38.9030567
+264997,7588,Spring Valley Branch,"4841 Massachusetts Avenue, N.W.",District Of Columbia,Washington,DC,20016,Full Service Brick and Mortar Office,01/01/1907,03/20/2010,-77.0957016,38.9455138
+265028,7625,Quince Orchard Branch,12161 Darnestown Road,Montgomery,Gaithersburg,MD,20878,Full Service Brick and Mortar Office,02/21/1995,03/20/2010,-77.2510448,39.1188841
+265542,9195,Independence Branch,699 Independence Boulevard,Virginia Beach City,Virginia Beach,VA,23455,Full Service Brick and Mortar Office,01/01/1889,03/20/2010,-76.13303719999999,36.8617784
+265544,9196,Providence Square Branch,905 Kempsville Road,Virginia Beach City,Virginia Beach,VA,23464,Full Service Brick and Mortar Office,01/01/1889,03/20/2010,-76.1664098,36.8125643
+265547,9194,Kiln Creek Branch,110 Ottis Street,York,Yorktown,VA,23693,Full Service Brick and Mortar Office,06/30/1994,03/20/2010,-76.4702765,37.114223
+267961,7618,Arlington Branch,5701 Reisterstown Rd,Baltimore City,Baltimore,MD,21215,Full Service Brick and Mortar Office,01/01/1884,03/20/2010,-76.6931649,39.3500711
+267964,7619,Columbia Mall Branch,10400 Little Patuxent Parkway,Howard,Columbia,MD,21044,Full Service Brick and Mortar Office,01/01/1884,03/20/2010,-76.85867309999999,39.2123504
+267974,7620,Westminster Branch,375 North Center Street,Carroll,Westminster,MD,21157,Full Service Brick and Mortar Office,01/01/1884,03/20/2010,-76.9838111,39.5745875
+267980,7621,Chesapeake Square Branch,6708 Ritchie Hwy,Anne Arundel,Glen Burnie,MD,21061,Full Service Brick and Mortar Office,01/01/1884,03/20/2010,-76.6140514,39.19285989999999
+267993,7622,Greenspring Branch,2847 Smith Avenue,Baltimore,Baltimore,MD,21209,Full Service Brick and Mortar Office,01/01/1884,03/20/2010,-76.6913944,39.3744002
+272369,7876,Hopewell Branch,425 South 15th Avenue,Hopewell City,Hopewell,VA,23860,Full Service Brick and Mortar Office,01/01/1933,03/20/2010,-77.297709,37.2934938
+272374,7877,South Crater Square Branch,3360 South Crater Road,Petersburg City,Petersburg,VA,23805,Full Service Brick and Mortar Office,06/30/1988,03/20/2010,-77.3667844,37.182371
+275568,8740,Bradlee Branch,3690c King Street,Alexandria City,Alexandria,VA,22302,Full Service Brick and Mortar Office,11/22/1935,03/20/2010,-77.0921948,38.8296628
+275571,8741,Hollin Hall Branch,7928 Fort Hunt Road,Fairfax,Alexandria,VA,22308,Full Service Brick and Mortar Office,11/22/1935,03/20/2010,-77.0563564,38.7413336
+277049,7585,North Capitol & E Branch,"444 North Capitol Street, N.W.",District Of Columbia,Washington,DC,20001,Full Service Brick and Mortar Office,01/01/1897,03/20/2010,-77.00978680000001,38.8958561
+282946,7616,Dogwood Station Branch,2339 North Rolling Road,Baltimore,Windsor Mill,MD,21244,Full Service Brick and Mortar Office,06/30/1985,03/20/2010,-76.7578952,39.3220428
+282951,7617,Merritt Point Branch,1643 Merritt Boulevard,Baltimore,Baltimore,MD,21222,Full Service Brick and Mortar Office,06/30/1987,03/20/2010,-76.5017792,39.272283
+284439,7824,Cobblestone Branch,8640 Centreville Road,Manassas City,Manassas,VA,20110,Full Service Brick and Mortar Office,01/01/1960,03/20/2010,-77.4563484,38.7667806
+284441,7825,Tackett's Mill Branch,12771 Harbor Dr,Prince William,Woodbridge,VA,22192,Full Service Brick and Mortar Office,01/01/1960,03/20/2010,-77.2789019,38.6755995
+284442,7826,Woodbridge Branch,13891 Jefferson Davis Highway,Prince William,Woodbridge,VA,22191,Full Service Brick and Mortar Office,01/01/1960,03/20/2010,-77.2565419,38.6516811
+284459,7828,Little Neck Branch,301 Little Neck Road,Virginia Beach City,Virginia Beach,VA,23452,Full Service Brick and Mortar Office,06/30/1988,03/20/2010,-76.0916082,36.8417723
+285250,8733,Bon Air At Forest Hill Branch,9026 Forest Hill Avenue,Chesterfield,Richmond,VA,23235,Full Service Brick and Mortar Office,01/01/1967,03/20/2010,-77.5640007,37.5360054
+285260,8735,West Park Branch,9801 West Broad Street,Henrico,Glen Allen,VA,23060,Full Service Brick and Mortar Office,01/01/1967,03/20/2010,-77.5653899,37.6421494
+285676,8742,Fair Oaks Branch,11781 Lee Jackson Memorial Highway,Fairfax,Fairfax,VA,22033,Full Service Brick and Mortar Office,04/26/1974,03/20/2010,-77.35352879999999,38.8624313
+285677,8743,Churchill Branch,1311 Dolley Madison Boulevard,Fairfax,Mclean,VA,22101,Full Service Brick and Mortar Office,04/26/1974,03/20/2010,-77.177094,38.9398778
+285742,8731,Jahnke Road Branch,7012 Marlowe Road,Richmond City,Richmond,VA,23225,Full Service Brick and Mortar Office,01/01/1973,03/20/2010,-77.5237811,37.5156216
+285743,8732,Gaskins Road Branch,1390 Gaskins Road,Henrico,Richmond,VA,23238,Full Service Brick and Mortar Office,01/01/1973,03/20/2010,-77.59115659999999,37.6068677
+285755,8734,Brook Run Branch,5610 Brook Road,Henrico,Richmond,VA,23227,Full Service Brick and Mortar Office,01/01/1973,03/20/2010,-77.4574914,37.6093224
+285766,8737,Ghent Branch,2000 Colonial Avenue,Norfolk City,Norfolk,VA,23517,Full Service Brick and Mortar Office,06/30/1987,03/20/2010,-76.2915404,36.8685154
+285777,8738,Ashland Branch,101 South Washington Highway,Hanover,Ashland,VA,23005,Full Service Brick and Mortar Office,06/30/1989,03/20/2010,-77.4710487,37.7579471
+287960,7623,St Thomas Shopping Center Branch,9948 Reisterstown Road,Baltimore,Owings Mills,MD,21117,Full Service Brick and Mortar Office,06/30/1986,03/20/2010,-76.76931429999999,39.411187
+357642,8216,Harbour Pointe Branch,13505 Harbour Pointe Pkwy,Chesterfield,Midlothian,VA,23112,Full Service Brick and Mortar Office,08/14/2000,03/20/2010,-77.649654,37.411718
+358598,8229,Monticello Marketplace Branch,4690 Monticello Avenue,James City,Williamsburg,VA,23188,Full Service Brick and Mortar Office,07/01/1999,03/20/2010,-76.75728079999999,37.2710463
+358911,8235,Germantown Branch,19708 Germantown Road,Montgomery,Germantown,MD,20874,Full Service Brick and Mortar Office,09/25/2000,03/20/2010,-77.26642199999999,39.1798053
+426745,8822,Gainesville Branch,7591 Somerset Crossing Drive,Prince William,Gainesville,VA,20155,Full Service Brick and Mortar Office,02/23/2004,03/20/2010,-77.629046,38.79217149999999
+430929,9233,Virginia Center Station Branch,9811 Brook Road,Henrico,Glen Allen,VA,23059,Full Service Brick and Mortar Office,12/29/2003,03/20/2010,-77.460081,37.6674045
+431102,8828,Ten High Branch,406 10th Street,Charlottesville City,Charlottesville,VA,22902,Full Service Brick and Mortar Office,07/25/2003,03/20/2010,-78.4713871,38.0313482
+431109,8835,Garrisonville- Salisbury Road Branch,131 Garrisonville Road,Stafford,Stafford,VA,22554,Full Service Brick and Mortar Office,10/04/2003,03/20/2010,-77.41295389999999,38.4685851
+431116,8841,13th & I Branch,"1300 I Street, Nw",District Of Columbia,Washington,DC,20005,Full Service Brick and Mortar Office,06/28/2004,03/20/2010,-77.03009879999999,38.9010633
+439344,9247,Hickory Corner Branch,11290 Nuckols Road,Henrico,Glen Allen,VA,23059,Full Service Brick and Mortar Office,10/15/2004,03/20/2010,-77.5878455,37.6810482
+440756,9254,County Center Branch,12711 Marblestone Drive,Prince William,Woodbridge,VA,22192,Full Service Brick and Mortar Office,07/01/2004,03/20/2010,-77.3507065,38.6780884
+440770,9257,Chantilly Crossing Branch,14430 Chantilly Crossing Lane,Fairfax,Chantilly,VA,20151,Full Service Brick and Mortar Office,08/11/2004,03/20/2010,-77.4439773,38.8968622
+440776,9263,Leesburg Branch,30 Catoctin Circle Se Suite A,Loudoun,Leesburg,VA,20175,Full Service Brick and Mortar Office,07/01/2004,03/20/2010,-77.5651847,39.107129
+440788,9269,Southside Marketplace Branch,879 East Fort Avenue,Baltimore City,Baltimore,MD,21230,Full Service Brick and Mortar Office,12/06/2004,03/20/2010,-76.6026296,39.2700823
+440796,9277,Waldorf Branch,3050 Waldorf Market Place,Charles,Waldorf,MD,20603,Full Service Brick and Mortar Office,12/13/2004,03/20/2010,-76.9180746,38.62819340000001
+440797,9278,Desoto Branch,"1447 P Street, N.W.",District Of Columbia,Washington,DC,20005,Full Service Brick and Mortar Office,12/13/2004,03/20/2010,-77.0336075,38.9098445
+440811,9291,Tivoli Square Branch,"3325 14th Street, N.W.",District Of Columbia,Washington,DC,20010,Full Service Brick and Mortar Office,04/30/2005,03/20/2010,-77.0324559,38.9307473
+443243,9311,Ryan Park Branch,43650 Yukon Drive,Loudoun,Ashburn,VA,20147,Full Service Brick and Mortar Office,06/27/2005,03/20/2010,-77.491124,39.0112531
+444517,9330,Arundel Mills Branch,7568 Ridge Road,Anne Arundel,Hanover,MD,21076,Full Service Brick and Mortar Office,07/25/2005,03/20/2010,-76.721071,39.1520901
+444570,9332,Southpoint Branch,9906 Southpoint Parkway,Spotsylvania,Fredericksburg,VA,22407,Full Service Brick and Mortar Office,08/29/2005,03/20/2010,-77.5039381,38.2336673
+447327,9375,Shoppes At Quarterfield Branch,7846 Quarterfield Road,Anne Arundel,Severn,MD,21144,Full Service Brick and Mortar Office,12/19/2005,03/20/2010,-76.64862629999999,39.1433761
+447851,9380,Lorton Town Center Branch,8994 Lorton Station Boulevard,Fairfax,Lorton,VA,22079,Full Service Brick and Mortar Office,01/09/2006,03/20/2010,-77.2131656,38.7142584
+452090,9425,Bowie Town Center Branch,4323 Collington Road,Prince George's,Bowie,MD,20716,Full Service Brick and Mortar Office,03/20/2006,03/20/2010,-76.7341488,38.9469231
+453779,9436,Lightfoot Branch,820 E Rochambeau Drive,York,Williamsburg,VA,23188,Full Service Brick and Mortar Office,06/05/2006,03/20/2010,-76.7400004,37.3429624
+456235,9457,Port Potomac Branch,16300 Navigation Drive,Prince William,Woodbridge,VA,22191,Full Service Brick and Mortar Office,09/25/2006,03/20/2010,-77.2951506,38.5992484
+456840,9467,Largo Commons Branch,9800 Apollo Drive,Prince George's,Largo,MD,20774,Full Service Brick and Mortar Office,10/25/2006,03/20/2010,-76.8365534,38.9033555
+457213,9473,King Farm Branch,"404 King Farm Boulevard, Suite 100",Montgomery,Rockville,MD,20850,Full Service Brick and Mortar Office,11/20/2006,03/20/2010,-77.17273589999999,39.1132449
+460570,9488,Celebrate Virginia Branch,35 Banks Ford Parkway,Stafford,Fredericksburg,VA,22406,Full Service Brick and Mortar Office,01/08/2007,03/20/2010,-77.5198865,38.359709
+467987,9553,Culpeper Marketplace Branch,795 Nalles Mill Road,Culpeper,Culpeper,VA,22701,Full Service Brick and Mortar Office,07/26/2007,03/20/2010,-77.9762295,38.4809343
+468289,9569,Crooked Run Branch,256 Crooked Run Plaza,Warren,Front Royal,VA,22630,Full Service Brick and Mortar Office,09/10/2007,03/20/2010,-78.1901908,38.9668198
+469601,9581,Metropolitan Park Branch,1429 South Fern Street,Arlington,Arlington,VA,22202,Full Service Brick and Mortar Office,11/05/2007,03/20/2010,-77.05596539999999,38.860016
+472080,9805,Shops At Park Village Branch,1545 Alabama Avenue Se,District Of Columbia,Washington,DC,20032,Full Service Brick and Mortar Office,01/28/2008,03/20/2010,-76.9812393,38.8461501
+474362,9807,Adams Morgan Branch,1804 Adams Mills Road Nw,District Of Columbia,Washington,DC,20009,Full Service Brick and Mortar Office,03/03/2008,03/20/2010,-77.0430378,38.92295319999999
+475459,9809,Belmont Green Branch,42995 Eastern Kingbird Plaza,Loudoun,Ashburn,VA,20147,Full Service Brick and Mortar Office,03/17/2008,03/20/2010,-77.5138837,39.0566237
+477395,9827,Harbor East Branch,725 South Eden Street,Baltimore City,Baltimore,MD,21231,Full Service Brick and Mortar Office,05/05/2008,03/20/2010,-76.5979607,39.2829231
+479907,9839,Fairfax Marketplace Branch,10944 Fairfax Blvd,Fairfax City,Fairfax,VA,22030,Full Service Brick and Mortar Office,06/16/2008,03/20/2010,-77.3218081,38.8533711
+479909,9841,Gateway Overlook Branch,8210 Gateway Overlook Dr,Howard,Elkridge,MD,21075,Full Service Brick and Mortar Office,06/23/2008,03/20/2010,-76.7964275,39.1862789
+479915,9847,Olney Branch,16810 Georgia Ave,Montgomery,Olney,MD,20832,Full Service Brick and Mortar Office,07/20/2007,03/20/2010,-77.071509699999993,39.1322607
+493529,9853,Westchester Commons Branch,164 Schofield Dr,Chesterfield,Midlothian,VA,23113,Full Service Brick and Mortar Office,09/11/2008,03/20/2010,-77.6958588,37.5138472
+493854,9901,Rosewick Crossing Branch,100 Rosewick Rd,Charles,La Plata,MD,20646,Full Service Brick and Mortar Office,08/04/2008,03/20/2010,-76.9855783,38.556008
+497255,9905,Constant Friendship Branch,400 Constant Friendship Blvd,Harford,Abingdon,MD,21009,Full Service Brick and Mortar Office,10/26/2009,03/20/2010,-76.3170973,39.4633396
+498623,9906,Riverdale Park Branch,6235 Baltimore Avenue,Prince George's,Riverdale,MD,20737,Full Service Brick and Mortar Office,10/22/2009,03/20/2010,-76.9388899,38.96417400000001
+498647,9907,Brandywine Crossing Branch,16000 Crain Highway,Prince George's,Brandywine,MD,20613,Full Service Brick and Mortar Office,11/09/2009,03/20/2010,-76.8750913,38.670934
+499297,9909,Eastgate Marketplace Branch,25420 Eastern Marketplace Plaza,Loudoun,South Riding,VA,20152,Full Service Brick and Mortar Office,11/03/2009,03/20/2010,-77.4882787,38.9135064
+500325,9913,Aspen Hill Branch,13920 Georgia Avenue,Montgomery,Silver Spring,MD,20906,Full Service Brick and Mortar Office,01/02/2010,03/20/2010,-77.0778967,39.0825467
+508658,9946,Hunt Valley Pb - Satellite Office,225 International Dr,Baltimore,Hunt Valley,MD,21030,Limited Service Facility Office,05/04/2010,,-76.66165149999999,39.4961874
+508665,9953,Lynchburg Business Banking Office,"700 Main Street, 3rd Floor Section C",Lynchburg City,Lynchburg,VA,24504,Limited Service Facility Office,05/04/2010,,-79.1430353,37.4164663
+512347,9992,Madison Branch,1264 North Main Street,Madison,Madison,VA,22727,Full Service Brick and Mortar Office,03/20/2010,,-78.2460571,38.3902647
+512350,9995,"Village At Leesburg Branch, The",1616 Village Market Blvd Se,Loudoun,Leesburg,VA,20175,Full Service Brick and Mortar Office,01/12/2010,,-77.5264773,39.0906258
+512352,9997,Quarterpath Crossing Branch,1520 Quarterpath Road,Williamsburg City,Williamsburg,VA,23185,Full Service Brick and Mortar Office,07/01/2009,,-76.68484219999999,37.2480736
+528040,10049,Annapolis Pb - Satellite Branch,1906 Towne Center Boulevard,Anne Arundel,Annapolis,MD,21401,Limited Service Facility Office,01/10/2012,,-76.54146399999999,38.9814541
+531793,10053,Va Loudoun County 1 Branch,21200 Campus Drive,Loudoun,Sterling,VA,20164,Limited Service Mobile Office,06/30/2012,,-77.3929773,39.0281558
+531794,10054,Va Fairfax County 1 Branch,8333 Little River Turnpike,Fairfax,Annandale,VA,22003,Limited Service Mobile Office,06/30/2012,,-77.2366292,38.8341332
+531796,10056,Dc District Of Columbia County 1,125 Michigan Avenue Ne,District Of Columbia,Washington,DC,20017,Limited Service Mobile Office,06/30/2012,,-77.0048824,38.9275215
+533510,10059,Janaf Branch,1280 Military Hwy,Norfolk City,Norfolk,VA,23502,Full Service Brick and Mortar Office,07/01/2011,,-76.21029089999999,36.867108400000014
+533512,10060,360 West Branch,8300 Hull Street Rd.,Chesterfield,North Chesterfield,VA,23235,Full Service Brick and Mortar Office,07/01/2011,,-77.5486193,37.45939
+533530,10065,Clemson Corner Branch,7860 Wormans Mill Road,Frederick,Frederick,MD,21701,Full Service Brick and Mortar Office,07/01/2011,,-77.3977792,39.4476593
+533537,10070,Oyster Point Branch,600 Thimble Shoals Blvd.,Newport News City,Newport News,VA,23606,Full Service Brick and Mortar Office,07/01/2011,,-76.4793186,37.0830657
+533538,10071,Olde Towne Portsmouth Branch,600 Crawford Street,Portsmouth City,Portsmouth,VA,23704,Full Service Brick and Mortar Office,07/01/2011,,-76.29818689999999,36.8341995
+533543,10072,Pantops Branch,1420 Rolkin Ct,Albemarle,Charlottesville,VA,22911,Full Service Brick and Mortar Office,07/01/2011,,-78.4419334,38.0299283
+538613,10087,Noma Capitol Plaza Branch,"1200 First Street, Ne",District Of Columbia,Washington,DC,20002,Full Service Brick and Mortar Office,04/15/2013,,-77.0063357,38.9060638
+541078,10100,Md Baltimore County 1 Branch,8000 York Road,Baltimore,Towson,MD,21252,Limited Service Mobile Office,09/05/2012,,-76.60710910000002,39.3936229
+541079,10101,Md Baltimore City 2 Branch,1700 East Cold Spring Lane,Baltimore City,Baltimore,MD,21251,Limited Service Mobile Office,09/05/2012,,-76.58243879999999,39.3442455
+541080,10102,Md Baltimore City 4 Branch,1420 North Charles Street,Baltimore City,Baltimore,MD,21201,Limited Service Mobile Office,09/05/2012,,-76.61645039999999,39.3059189
+541081,10103,Md Baltimore City 5 Branch,2901 Liberty Heights Avenue,Baltimore City,Baltimore,MD,21215,Limited Service Mobile Office,09/05/2012,,-76.6619365,39.3207741
+541089,10111,Va City Of Richmond 1 Branch,701 West Broad Street,Richmond City,Richmond,VA,23220,Limited Service Mobile Office,06/10/2013,,-77.44859699999999,37.549158
+542031,10115,Md Baltimore City 3 Branch,2500 W North Avenue,Baltimore City,Baltimore,MD,21216,Limited Service Mobile Office,09/05/2012,,-76.6587569,39.3100198
+544686,10130,Westfield Annapolis Nd Branch,2002 Annapolis Mall,Anne Arundel,Annapolis,MD,21401,Limited Service Messenger Office,10/09/2013,,-76.54537499999999,38.9891998
+544692,10135,Westfield Wheaton Nd Branch,11160 Veirs Mill Road,Montgomery,Wheaton,MD,20902,Limited Service Messenger Office,10/08/2013,,-77.0548273,39.0368361
+546060,10136,Clarksburg Village Center Branch,12101 Chestnut Branch Way,Montgomery,Clarksburg,MD,20871,Full Service Brick and Mortar Office,11/18/2013,,-77.250436,39.230616
+553040,10157,U Street Branch,"1934 14th Street, Nw",District Of Columbia,Washington,DC,20009,Full Service Brick and Mortar Office,04/28/2014,,-77.0321754,38.9166614
+553942,10158,Crown Farm Branch,107 Crown Park Avenue,Montgomery,Gaithersburg,MD,20878,Full Service Brick and Mortar Office,05/12/2014,,-77.2066215,39.11489660000001
+553943,10159,Mt Vernon Square Branch,490 L Street Nw,District Of Columbia,Washington,DC,20001,Full Service Retail Office,05/13/2014,,-77.0186955,38.9035684
+556609,10161,North Point Village Center Branch,1498 Northpoint Village Center,Fairfax,Reston,VA,20194,Full Service Brick and Mortar Office,06/02/2014,,-77.3481006,38.9798394
+557700,10216,Md Montgomery County 1 Branch,8100 Connecticut Avenue,Montgomery,Chevy Chase,MD,20815,Limited Service Mobile Office,07/01/2013,,-77.0783014,38.9917968
+560697,10256,Md Prince George's County 1 Branch,8151 15th Avenue,Prince George's,Hyattsville,MD,20783,Limited Service Mobile Office,10/15/2014,,-76.981483,38.990764
+563186,10268,Cathedral Commons Branch,"3314 Wisconsin Ave, Nw",District Of Columbia,Washington,DC,20016,Full Service Brick and Mortar Office,12/08/2014,,-77.0725762,38.9336464
+567192,10275,Lexington Market,400 West Lexington Street,Baltimore City,Baltimore,MD,21201,Limited Service Facility Office,09/29/2014,,-76.62142899999999,39.291674
+567539,10282,Bethesda Pb Branch,7475 Wisconsin Ave,Montgomery,Bethesda,MD,20814,Limited Service Facility Office,04/01/2015,,-77.0937684,38.9843923
+571973,10302,Va Harrisonburg City 1 Branch,1031 Harrison Street,Harrisonburg City,Harrisonburg,VA,22807,Limited Service Mobile Office,08/25/2015,,-78.87842599999999,38.43935
+579934,10325,Cascades Overlook Branch,21361 Epicerie Plaza,Loudoun,Sterling,VA,20164,Full Service Brick and Mortar Office,06/06/2016,,-77.3952865,39.0247114
+582574,10351,Va Lynchburg City 1 Branch,1971 University Blvd,Lynchburg City,Lynchburg,VA,24515,Limited Service Mobile Office,09/26/2016,,-79.1770145,37.3530503
